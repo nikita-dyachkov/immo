@@ -1,0 +1,4065 @@
+{
+  "sort": {
+    "direction": "DESC",
+    "field": "RELEVANCE"
+  },
+  "data": [
+    {
+      "id": "project_4768",
+      "itemType": "PROJECT",
+      "projectId": "4768",
+      "locationIds": [
+        531054,
+        529870,
+        528418,
+        499998,
+        26058102,
+        150696,
+        113886,
+        121726
+      ],
+      "place": {
+        "city": "Berlin"
+      },
+      "estateTypes": [
+        "APARTMENT"
+      ],
+      "distributionType": "SALE",
+      "title": "SUITES AM TACHELES",
+      "prices": [
+        {
+          "amountMin": 685000.0,
+          "amountMax": 1245000.0,
+          "type": "PURCHASE_PRICE",
+          "currency": "EUR",
+          "attributes": []
+        }
+      ],
+      "areas": [
+        {
+          "sizeMin": 41.0,
+          "sizeMax": 78.0,
+          "type": "LIVING_AREA"
+        }
+      ],
+      "primaryArea": {
+        "sizeMin": 41.0,
+        "sizeMax": 78.0,
+        "type": "LIVING_AREA"
+      },
+      "primaryPrice": {
+        "amountMin": 685000.0,
+        "amountMax": 1245000.0,
+        "type": "PURCHASE_PRICE",
+        "currency": "EUR",
+        "attributes": []
+      },
+      "roomsMin": 1.0,
+      "roomsMax": 3.0,
+      "timestamp": "2023-01-19T13:13:41.909Z",
+      "isNew": false,
+      "features": [
+        "NEW_BUILDING",
+        "NEW_BUILDING_PROJECT"
+      ],
+      "pictures": [
+        {
+          "imageUri": "https://ms.immowelt.org/c8810650-e9bf-4b6a-bbad-45ff6cd41876/705ef17b-c047-4c28-ab6a-9273140ac43a",
+          "imageUriBasePath": "https://ms.immowelt.org/c8810650-e9bf-4b6a-bbad-45ff6cd41876/705ef17b-c047-4c28-ab6a-9273140ac43a"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/fe80d7be-ae36-40a0-a357-a81cd43405cf/68fe528e-0546-4e93-b83f-09e59d4b4ca7",
+          "imageUriBasePath": "https://ms.immowelt.org/fe80d7be-ae36-40a0-a357-a81cd43405cf/68fe528e-0546-4e93-b83f-09e59d4b4ca7"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/6d5871bb-10c3-4bfd-8738-bf2fad78b34c/2f896297-9f19-439e-8c01-76f684ee9455",
+          "imageUriBasePath": "https://ms.immowelt.org/6d5871bb-10c3-4bfd-8738-bf2fad78b34c/2f896297-9f19-439e-8c01-76f684ee9455"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/87ce2c39-939b-4d39-b1ca-36538b563b70/18b30e85-e233-470d-825c-6a348ff22a66",
+          "imageUriBasePath": "https://ms.immowelt.org/87ce2c39-939b-4d39-b1ca-36538b563b70/18b30e85-e233-470d-825c-6a348ff22a66"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/b538b013-659f-432b-84ce-855be9241c4d/e3cdbd8f-9a62-46d1-afe4-617aaa323d38",
+          "imageUriBasePath": "https://ms.immowelt.org/b538b013-659f-432b-84ce-855be9241c4d/e3cdbd8f-9a62-46d1-afe4-617aaa323d38"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/882c8595-cbd1-4c36-81ff-d4d64de94d1c/42932740-7c89-4c67-a99c-f171345d29e0",
+          "imageUriBasePath": "https://ms.immowelt.org/882c8595-cbd1-4c36-81ff-d4d64de94d1c/42932740-7c89-4c67-a99c-f171345d29e0"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/0d46b30c-f066-49a7-b101-051a91c8756a/7a95ba33-6c70-44aa-b8c0-548fccfea5a8",
+          "imageUriBasePath": "https://ms.immowelt.org/0d46b30c-f066-49a7-b101-051a91c8756a/7a95ba33-6c70-44aa-b8c0-548fccfea5a8"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/0cea6427-25f1-4fd9-9a45-b74d0ce86c3e/5402263c-f256-49cd-9fdb-b3f754db9cad",
+          "imageUriBasePath": "https://ms.immowelt.org/0cea6427-25f1-4fd9-9a45-b74d0ce86c3e/5402263c-f256-49cd-9fdb-b3f754db9cad"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/e3d33dbb-c2bd-4c1b-acb9-02ed3128944b/44c14f9a-0813-41cf-88dc-e7b9c5b04f16",
+          "imageUriBasePath": "https://ms.immowelt.org/e3d33dbb-c2bd-4c1b-acb9-02ed3128944b/44c14f9a-0813-41cf-88dc-e7b9c5b04f16"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/9bd8353c-7eba-4a26-aae6-3248f2a3e214/43770aac-e99a-42c8-b4ef-8547f93d33f0",
+          "imageUriBasePath": "https://ms.immowelt.org/9bd8353c-7eba-4a26-aae6-3248f2a3e214/43770aac-e99a-42c8-b4ef-8547f93d33f0"
+        }
+      ],
+      "broker": {
+        "guid": 2370885,
+        "sellerType": "PARTNER",
+        "companyName": "allmyhomes GmbH",
+        "partnerAward": "BUSINESS",
+        "immoweltExclusive": false,
+        "logoUri": "//filestore.immowelt.de/logo/100_50d080cb7da1436680b66d8d3dbb6f23.jpg",
+        "logoUriHttps": "https://filestore.immowelt.de/logo/100_50d080cb7da1436680b66d8d3dbb6f23.jpg"
+      },
+      "onlineId": "k2zn632",
+      "projectData": {
+        "constructionStartDate": null,
+        "constructionEndDate": null,
+        "movingDate": "Winter 2023",
+        "logoUri": "https://ms.immowelt.org/921f9812-a0b9-4589-928b-be75c9d30202/aa33da77-e7fc-4036-bbed-ba292b26ee42",
+        "numberOfUnits": 51
+      },
+      "relatedItems": [
+        {
+          "itemType": "ESTATE",
+          "onlineId": "27yhh59",
+          "gok": "d6c04643-9a63-418d-a672-eecbe3ad2c2c",
+          "projectId": null,
+          "title": "Puristische Design-Eigentumswohnung mit perfekter Raumaufteilung",
+          "roomsMin": 2.0,
+          "roomsMax": 2.0,
+          "primaryPrice": {
+            "amountMin": 725000.0,
+            "amountMax": 725000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 56.95,
+            "sizeMax": 56.95,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "CELLAR_SHARE",
+            "NEW_BUILDING",
+            "FITTED_KITCHEN",
+            "GARDEN",
+            "NEW_BUILDING_PROJECT",
+            "PASSENGER_LIFT",
+            null,
+            "BALCONY"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "2749h59",
+          "gok": "03eba3f8-c1c1-4e6e-99a0-95bc96490302",
+          "projectId": null,
+          "title": "Sichtbetonwände und -decken: Kompakte Eigentumswohnung in Berlin-Mitte",
+          "roomsMin": 2.0,
+          "roomsMax": 2.0,
+          "primaryPrice": {
+            "amountMin": 773000.0,
+            "amountMax": 773000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 52.26,
+            "sizeMax": 52.26,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "CELLAR_SHARE",
+            "NEW_BUILDING",
+            "FITTED_KITCHEN",
+            "GARDEN",
+            "NEW_BUILDING_PROJECT",
+            "PASSENGER_LIFT",
+            null,
+            "BALCONY"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "27v6h59",
+          "gok": "29dddcde-9c9d-40ac-88e0-d966c858b5e9",
+          "projectId": null,
+          "title": "Raumhöhe ca. 2,85 m: Design-Suite-Wohnung in Berlin-Mitte",
+          "roomsMin": 1.0,
+          "roomsMax": 1.0,
+          "primaryPrice": {
+            "amountMin": 855000.0,
+            "amountMax": 855000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 47.94,
+            "sizeMax": 47.94,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "CELLAR_SHARE",
+            "NEW_BUILDING",
+            "FITTED_KITCHEN",
+            "GARDEN",
+            "NEW_BUILDING_PROJECT",
+            "PASSENGER_LIFT",
+            null,
+            "BALCONY"
+          ]
+        }
+      ],
+      "estateGroups": [
+        "RESIDENTIAL"
+      ]
+    },
+    {
+      "id": "project_4762",
+      "itemType": "PROJECT",
+      "projectId": "4762",
+      "locationIds": [
+        527235,
+        529870,
+        528418,
+        500043,
+        26058104,
+        150696,
+        113886,
+        121726
+      ],
+      "place": {
+        "city": "Berlin"
+      },
+      "estateTypes": [
+        "APARTMENT"
+      ],
+      "distributionType": "SALE",
+      "title": "Klassisch schön wohnen in Berlin-Wilhelmsruh",
+      "prices": [
+        {
+          "amountMin": 454500.0,
+          "amountMax": 661200.0,
+          "type": "PURCHASE_PRICE",
+          "currency": "EUR",
+          "attributes": []
+        }
+      ],
+      "areas": [
+        {
+          "sizeMin": 68.0,
+          "sizeMax": 94.0,
+          "type": "LIVING_AREA"
+        }
+      ],
+      "primaryArea": {
+        "sizeMin": 68.0,
+        "sizeMax": 94.0,
+        "type": "LIVING_AREA"
+      },
+      "primaryPrice": {
+        "amountMin": 454500.0,
+        "amountMax": 661200.0,
+        "type": "PURCHASE_PRICE",
+        "currency": "EUR",
+        "attributes": []
+      },
+      "roomsMin": 3.0,
+      "roomsMax": 4.0,
+      "timestamp": "2023-01-18T17:40:37.739Z",
+      "isNew": false,
+      "features": [
+        "NEW_BUILDING",
+        "NEW_BUILDING_PROJECT"
+      ],
+      "pictures": [
+        {
+          "imageUri": "https://ms.immowelt.org/4088c84e-8d48-4139-98d9-dcbe6fc2ede4/bc3ec8b6-2662-466e-acae-4d2b26662c14",
+          "imageUriBasePath": "https://ms.immowelt.org/4088c84e-8d48-4139-98d9-dcbe6fc2ede4/bc3ec8b6-2662-466e-acae-4d2b26662c14"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/0bbfc2f1-737e-4c2c-867e-ba65823e154d/8579bf32-0677-4028-ba53-353cae904aa1",
+          "imageUriBasePath": "https://ms.immowelt.org/0bbfc2f1-737e-4c2c-867e-ba65823e154d/8579bf32-0677-4028-ba53-353cae904aa1"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/d444eb3a-21ef-413d-b8cc-663fd80de1ef/97e2e170-ef5c-4ab1-9002-b390485e1087",
+          "imageUriBasePath": "https://ms.immowelt.org/d444eb3a-21ef-413d-b8cc-663fd80de1ef/97e2e170-ef5c-4ab1-9002-b390485e1087"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/657e53d1-7f7a-49d0-923e-8c4b1004caac/19524e37-9354-4a02-a5f7-9b0c97d54b80",
+          "imageUriBasePath": "https://ms.immowelt.org/657e53d1-7f7a-49d0-923e-8c4b1004caac/19524e37-9354-4a02-a5f7-9b0c97d54b80"
+        }
+      ],
+      "broker": {
+        "guid": 6350266,
+        "sellerType": "PARTNER",
+        "companyName": "Wohnquadrat Berlin GmbH",
+        "partnerAward": null,
+        "immoweltExclusive": false,
+        "logoUri": "//filestore.immowelt.de/logo/100_3b791504d60e4d1880459c9657146105.jpg",
+        "logoUriHttps": "https://filestore.immowelt.de/logo/100_3b791504d60e4d1880459c9657146105.jpg"
+      },
+      "onlineId": "k2tn632",
+      "projectData": {
+        "constructionStartDate": "Sommer 2023",
+        "constructionEndDate": "Herbst 2025",
+        "movingDate": "Herbst 2025",
+        "logoUri": "https://ms.immowelt.org/1f2ddea4-ef56-408d-b3f5-17185d930e60/1a89984f-8c91-4fcf-bc47-ad0059627749",
+        "numberOfUnits": 13
+      },
+      "relatedItems": [
+        {
+          "itemType": "ESTATE",
+          "onlineId": "282fd5n",
+          "gok": "8a65a248-63d9-42cb-b0f0-b9b180f39af1",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 3.0,
+          "roomsMax": 3.0,
+          "primaryPrice": {
+            "amountMin": 454500.0,
+            "amountMax": 454500.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 68.46,
+            "sizeMax": 68.46,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "BARRIER_FREE",
+            "NEW_BUILDING_STANDARD",
+            "BALCONY",
+            "FREE_OF_COMMISSION",
+            "NEW_BUILDING",
+            "PASSENGER_LIFT",
+            "NEW_BUILDING_PROJECT"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "28sbd5n",
+          "gok": "837eca47-ca11-41dd-b32f-83c9b2cc8de8",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 3.0,
+          "roomsMax": 3.0,
+          "primaryPrice": {
+            "amountMin": 466200.0,
+            "amountMax": 466200.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 70.68,
+            "sizeMax": 70.68,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "TERRACE",
+            "NEW_BUILDING_STANDARD",
+            "BATH_WITH_TUB",
+            "FREE_OF_COMMISSION",
+            "NEW_BUILDING",
+            "BATH_WITH_WINDOW",
+            "PASSENGER_LIFT",
+            "GROUND_FLOOR",
+            "GARDEN_PART",
+            "NEW_BUILDING_PROJECT"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "28ghd5n",
+          "gok": "0352f454-756e-4ff1-97b9-452b8fdf7747",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 3.0,
+          "roomsMax": 3.0,
+          "primaryPrice": {
+            "amountMin": 472200.0,
+            "amountMax": 472200.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 68.64,
+            "sizeMax": 68.64,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "BARRIER_FREE",
+            "NEW_BUILDING_STANDARD",
+            "BALCONY",
+            "FREE_OF_COMMISSION",
+            "NEW_BUILDING",
+            "PASSENGER_LIFT",
+            "NEW_BUILDING_PROJECT"
+          ]
+        }
+      ],
+      "estateGroups": [
+        "RESIDENTIAL"
+      ]
+    },
+    {
+      "id": "project_4757",
+      "itemType": "PROJECT",
+      "projectId": "4757",
+      "locationIds": [
+        528319,
+        529870,
+        528418,
+        500038,
+        26058104,
+        150696,
+        113886,
+        121726
+      ],
+      "place": {
+        "city": "Berlin"
+      },
+      "estateTypes": [
+        "APARTMENT"
+      ],
+      "distributionType": "SALE",
+      "title": "Lillys Garten",
+      "prices": [
+        {
+          "amountMin": 469000.0,
+          "amountMax": 1398000.0,
+          "type": "PURCHASE_PRICE",
+          "currency": "EUR",
+          "attributes": []
+        }
+      ],
+      "areas": [
+        {
+          "sizeMin": 63.0,
+          "sizeMax": 189.0,
+          "type": "LIVING_AREA"
+        }
+      ],
+      "primaryArea": {
+        "sizeMin": 63.0,
+        "sizeMax": 189.0,
+        "type": "LIVING_AREA"
+      },
+      "primaryPrice": {
+        "amountMin": 469000.0,
+        "amountMax": 1398000.0,
+        "type": "PURCHASE_PRICE",
+        "currency": "EUR",
+        "attributes": []
+      },
+      "roomsMin": 2.0,
+      "roomsMax": 6.0,
+      "timestamp": "2023-01-18T11:22:50.948Z",
+      "isNew": false,
+      "features": [
+        "NEW_BUILDING",
+        "NEW_BUILDING_PROJECT"
+      ],
+      "pictures": [
+        {
+          "imageUri": "https://ms.immowelt.org/bf9e969a-622f-402c-bbae-c620fef08380/dfbb904b-9009-4b68-a487-3b2a691c7d99",
+          "imageUriBasePath": "https://ms.immowelt.org/bf9e969a-622f-402c-bbae-c620fef08380/dfbb904b-9009-4b68-a487-3b2a691c7d99"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/0ca5d759-e91d-4ef6-ae4e-0b6585fe289b/c4d7d5bd-fc26-45a5-bab2-af3ea40bead5",
+          "imageUriBasePath": "https://ms.immowelt.org/0ca5d759-e91d-4ef6-ae4e-0b6585fe289b/c4d7d5bd-fc26-45a5-bab2-af3ea40bead5"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/51c0417d-edd8-4afc-8ced-b15c721b19e4/364c45cd-977a-4a68-9ee4-3b9258bcf39a",
+          "imageUriBasePath": "https://ms.immowelt.org/51c0417d-edd8-4afc-8ced-b15c721b19e4/364c45cd-977a-4a68-9ee4-3b9258bcf39a"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/cc3accdd-bd6f-46ad-8edb-7deedf933922/fff65015-2a7e-49d0-93bf-2cc23b8bb535",
+          "imageUriBasePath": "https://ms.immowelt.org/cc3accdd-bd6f-46ad-8edb-7deedf933922/fff65015-2a7e-49d0-93bf-2cc23b8bb535"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/5a15f456-0ae6-4938-a9c7-999bad19a568/744e8b24-0061-4a6d-9ca3-bdff155e11f5",
+          "imageUriBasePath": "https://ms.immowelt.org/5a15f456-0ae6-4938-a9c7-999bad19a568/744e8b24-0061-4a6d-9ca3-bdff155e11f5"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/5901870f-92cf-4eed-ad58-6da6fc4848be/9dcb5d42-e477-4e52-9731-8b1c17f44de2",
+          "imageUriBasePath": "https://ms.immowelt.org/5901870f-92cf-4eed-ad58-6da6fc4848be/9dcb5d42-e477-4e52-9731-8b1c17f44de2"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/20a9fb7d-1ddc-4d0e-8254-fa5acb5f2153/e59314b3-aea4-4e8a-a1e8-aaa160e09d56",
+          "imageUriBasePath": "https://ms.immowelt.org/20a9fb7d-1ddc-4d0e-8254-fa5acb5f2153/e59314b3-aea4-4e8a-a1e8-aaa160e09d56"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/87899df3-8f8a-4a32-b10a-5e5a59d72c49/cc6f0e66-270f-4ce2-8c11-35aefbd35f77",
+          "imageUriBasePath": "https://ms.immowelt.org/87899df3-8f8a-4a32-b10a-5e5a59d72c49/cc6f0e66-270f-4ce2-8c11-35aefbd35f77"
+        }
+      ],
+      "broker": {
+        "guid": 146097,
+        "sellerType": "PARTNER",
+        "companyName": "BEST PLACE Immobilien GmbH & Co. KG",
+        "partnerAward": "PREMIUM",
+        "immoweltExclusive": false,
+        "logoUri": "//filestore.immowelt.de/logo/100_eaea4c50dce942a7a60c5a1ad82f052a.jpg",
+        "logoUriHttps": "https://filestore.immowelt.de/logo/100_eaea4c50dce942a7a60c5a1ad82f052a.jpg"
+      },
+      "onlineId": "k2nn632",
+      "projectData": {
+        "constructionStartDate": null,
+        "constructionEndDate": "Q4 / 2024",
+        "movingDate": null,
+        "logoUri": "https://ms.immowelt.org/2b6ba79e-c7f7-4927-870b-56662c4bca4e/91c076bd-cda6-4003-b4cd-186682521360",
+        "numberOfUnits": 26
+      },
+      "relatedItems": [
+        {
+          "itemType": "ESTATE",
+          "onlineId": "275nd5l",
+          "gok": "c377226d-fcb3-4192-aad1-ea3e19d1b671",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 2.0,
+          "roomsMax": 2.0,
+          "primaryPrice": {
+            "amountMin": 469000.0,
+            "amountMax": 469000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 63.02,
+            "sizeMax": 63.02,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "CELLAR_SHARE",
+            "NEW_BUILDING_PROJECT",
+            "BARRIER_FREE",
+            "PASSENGER_LIFT",
+            "TERRACE"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "27xdd5l",
+          "gok": "c98425b3-564e-4821-aed3-36777305b3c8",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 3.0,
+          "roomsMax": 3.0,
+          "primaryPrice": {
+            "amountMin": 509000.0,
+            "amountMax": 509000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 74.39,
+            "sizeMax": 74.39,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "CELLAR_SHARE",
+            "NEW_BUILDING_PROJECT",
+            "BARRIER_FREE",
+            "PASSENGER_LIFT"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "27epd5l",
+          "gok": "84a82314-22fa-4282-af9f-a6f0e1e7d3e3",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 4.0,
+          "roomsMax": 4.0,
+          "primaryPrice": {
+            "amountMin": 999000.0,
+            "amountMax": 999000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 135.39,
+            "sizeMax": 135.39,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "CELLAR_SHARE",
+            "NEW_BUILDING_PROJECT",
+            "BARRIER_FREE",
+            "PASSENGER_LIFT",
+            "TERRACE"
+          ]
+        }
+      ],
+      "estateGroups": [
+        "RESIDENTIAL"
+      ]
+    },
+    {
+      "id": "project_4750",
+      "itemType": "PROJECT",
+      "projectId": "4750",
+      "locationIds": [
+        525854,
+        529870,
+        528418,
+        499998,
+        26058102,
+        150696,
+        113886,
+        121726
+      ],
+      "place": {
+        "city": "Berlin"
+      },
+      "estateTypes": [
+        "APARTMENT"
+      ],
+      "distributionType": "SALE",
+      "title": "Caro + Louis ",
+      "prices": [
+        {
+          "amountMin": 1130580.0,
+          "amountMax": 3650000.0,
+          "type": "PURCHASE_PRICE",
+          "currency": "EUR",
+          "attributes": []
+        }
+      ],
+      "areas": [
+        {
+          "sizeMin": 81.0,
+          "sizeMax": 203.0,
+          "type": "LIVING_AREA"
+        }
+      ],
+      "primaryArea": {
+        "sizeMin": 81.0,
+        "sizeMax": 203.0,
+        "type": "LIVING_AREA"
+      },
+      "primaryPrice": {
+        "amountMin": 1130580.0,
+        "amountMax": 3650000.0,
+        "type": "PURCHASE_PRICE",
+        "currency": "EUR",
+        "attributes": []
+      },
+      "roomsMin": 2.0,
+      "roomsMax": 5.0,
+      "timestamp": "2023-01-17T09:02:05.738Z",
+      "isNew": false,
+      "features": [
+        "NEW_BUILDING",
+        "NEW_BUILDING_PROJECT"
+      ],
+      "pictures": [
+        {
+          "imageUri": "https://ms.immowelt.org/39a36b68-d157-45b5-8030-8e85ab10e76c/8586bc07-220c-4db1-a1e0-885be70487a3",
+          "imageUriBasePath": "https://ms.immowelt.org/39a36b68-d157-45b5-8030-8e85ab10e76c/8586bc07-220c-4db1-a1e0-885be70487a3"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/a339cc44-af49-4572-a7cd-26c8d57dc37b/dee9ced5-cacd-4f2c-9e1d-c2211dbb8bc8",
+          "imageUriBasePath": "https://ms.immowelt.org/a339cc44-af49-4572-a7cd-26c8d57dc37b/dee9ced5-cacd-4f2c-9e1d-c2211dbb8bc8"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/e8d5ee70-ac69-492b-b3c3-8954bcadbf26/ec7d3685-9ba3-4e81-a8c3-3e79ad548ae8",
+          "imageUriBasePath": "https://ms.immowelt.org/e8d5ee70-ac69-492b-b3c3-8954bcadbf26/ec7d3685-9ba3-4e81-a8c3-3e79ad548ae8"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/f161b08f-8778-4878-8fcb-2113ac9092b5/623cac82-1194-4290-86d6-47fade91f8b4",
+          "imageUriBasePath": "https://ms.immowelt.org/f161b08f-8778-4878-8fcb-2113ac9092b5/623cac82-1194-4290-86d6-47fade91f8b4"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/4aa9eb05-2d57-4425-8dbc-16efa905b10a/9ae5d0ae-f5d7-4805-b6f3-1a7ff9c169b7",
+          "imageUriBasePath": "https://ms.immowelt.org/4aa9eb05-2d57-4425-8dbc-16efa905b10a/9ae5d0ae-f5d7-4805-b6f3-1a7ff9c169b7"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/4ddafd44-4029-451e-9946-76aec63f3db7/2a2249ee-a871-4945-afa5-6a3401941a39",
+          "imageUriBasePath": "https://ms.immowelt.org/4ddafd44-4029-451e-9946-76aec63f3db7/2a2249ee-a871-4945-afa5-6a3401941a39"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/1ff54360-14b2-4aa4-89d5-18f341b989aa/d97843d7-4800-4dcb-8e14-2ab3bdf825d7",
+          "imageUriBasePath": "https://ms.immowelt.org/1ff54360-14b2-4aa4-89d5-18f341b989aa/d97843d7-4800-4dcb-8e14-2ab3bdf825d7"
+        }
+      ],
+      "broker": {
+        "guid": 146097,
+        "sellerType": "PARTNER",
+        "companyName": "BEST PLACE Immobilien GmbH & Co. KG",
+        "partnerAward": "PREMIUM",
+        "immoweltExclusive": false,
+        "logoUri": "//filestore.immowelt.de/logo/100_eaea4c50dce942a7a60c5a1ad82f052a.jpg",
+        "logoUriHttps": "https://filestore.immowelt.de/logo/100_eaea4c50dce942a7a60c5a1ad82f052a.jpg"
+      },
+      "onlineId": "k2fn632",
+      "projectData": {
+        "constructionStartDate": null,
+        "constructionEndDate": null,
+        "movingDate": "Q2/2023",
+        "logoUri": "https://ms.immowelt.org/3d9dd12f-93b1-4d7b-9d52-7ba852796881/1a8dcf34-2211-4d53-a6b5-afd7696ab55a",
+        "numberOfUnits": 10
+      },
+      "relatedItems": [
+        {
+          "itemType": "ESTATE",
+          "onlineId": "27hve5x",
+          "gok": "23ebaa7f-f149-4cb9-8701-d353215fb727",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 2.0,
+          "roomsMax": 2.0,
+          "primaryPrice": {
+            "amountMin": 1130580.0,
+            "amountMax": 1130580.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 81.02,
+            "sizeMax": 81.02,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "CELLAR_SHARE",
+            "NEW_BUILDING",
+            "GROUND_FLOOR",
+            "GARDEN",
+            "NEW_BUILDING_PROJECT",
+            "PASSENGER_LIFT",
+            "TERRACE"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "2y5d749",
+          "gok": "1ee7857b-4454-40f4-aa22-7f6e83575dc1",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 3.0,
+          "roomsMax": 3.0,
+          "primaryPrice": {
+            "amountMin": 1498000.0,
+            "amountMax": 1498000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 83.65,
+            "sizeMax": 83.65,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "CELLAR_SHARE",
+            "NEW_BUILDING",
+            "NEW_BUILDING_PROJECT",
+            "PASSENGER_LIFT"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "27nve5x",
+          "gok": "43290579-9501-47b7-a826-624295f439a8",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 5.0,
+          "roomsMax": 5.0,
+          "primaryPrice": {
+            "amountMin": 3650000.0,
+            "amountMax": 3650000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 202.88,
+            "sizeMax": 202.88,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "CELLAR_SHARE",
+            "NEW_BUILDING",
+            "NEW_BUILDING_PROJECT",
+            "PASSENGER_LIFT",
+            "TERRACE"
+          ]
+        }
+      ],
+      "estateGroups": [
+        "RESIDENTIAL"
+      ]
+    },
+    {
+      "id": "project_4749",
+      "itemType": "PROJECT",
+      "projectId": "4749",
+      "locationIds": [
+        528722,
+        529870,
+        528418,
+        499934,
+        26058111,
+        150696,
+        113886,
+        121726
+      ],
+      "place": {
+        "city": "Berlin"
+      },
+      "estateTypes": [
+        "APARTMENT"
+      ],
+      "distributionType": "SALE",
+      "title": "MÂY",
+      "prices": [
+        {
+          "amountMin": 249000.0,
+          "amountMax": 1139000.0,
+          "type": "PURCHASE_PRICE",
+          "currency": "EUR",
+          "attributes": []
+        }
+      ],
+      "areas": [
+        {
+          "sizeMin": 46.0,
+          "sizeMax": 154.0,
+          "type": "LIVING_AREA"
+        }
+      ],
+      "primaryArea": {
+        "sizeMin": 46.0,
+        "sizeMax": 154.0,
+        "type": "LIVING_AREA"
+      },
+      "primaryPrice": {
+        "amountMin": 249000.0,
+        "amountMax": 1139000.0,
+        "type": "PURCHASE_PRICE",
+        "currency": "EUR",
+        "attributes": []
+      },
+      "roomsMin": 2.0,
+      "roomsMax": 3.0,
+      "timestamp": "2023-01-17T09:01:40.691Z",
+      "isNew": false,
+      "features": [
+        "NEW_BUILDING",
+        "NEW_BUILDING_PROJECT"
+      ],
+      "pictures": [
+        {
+          "imageUri": "https://ms.immowelt.org/bba97412-8ad0-4f1c-97cb-dc46f6ca4bb4/b99cdb34-f2eb-4e4f-9558-e072c847fb6f",
+          "imageUriBasePath": "https://ms.immowelt.org/bba97412-8ad0-4f1c-97cb-dc46f6ca4bb4/b99cdb34-f2eb-4e4f-9558-e072c847fb6f"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/e9459a62-83c8-4224-8f02-2f1a4e664c74/491edbc8-8183-427e-a2c2-4547b9365cf2",
+          "imageUriBasePath": "https://ms.immowelt.org/e9459a62-83c8-4224-8f02-2f1a4e664c74/491edbc8-8183-427e-a2c2-4547b9365cf2"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/ffd827e7-28bd-47d1-b7c2-b0ee992a4ecf/0a1778a4-e3b1-4351-88f7-6cc01adfea65",
+          "imageUriBasePath": "https://ms.immowelt.org/ffd827e7-28bd-47d1-b7c2-b0ee992a4ecf/0a1778a4-e3b1-4351-88f7-6cc01adfea65"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/7ba92626-4e95-4094-aa6d-ad830c00a6c9/06fd5cec-4928-478d-81d9-8ad7a4929711",
+          "imageUriBasePath": "https://ms.immowelt.org/7ba92626-4e95-4094-aa6d-ad830c00a6c9/06fd5cec-4928-478d-81d9-8ad7a4929711"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/95ece2e0-94d8-4e75-8a53-47c1dfc2ea64/9f9101c3-b480-40b0-91d4-c25b79de6f0f",
+          "imageUriBasePath": "https://ms.immowelt.org/95ece2e0-94d8-4e75-8a53-47c1dfc2ea64/9f9101c3-b480-40b0-91d4-c25b79de6f0f"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/95bdcf1a-f80d-4ecc-b445-5ca427aa7119/3d45ba7f-d9c9-4bc6-a462-f4f144a8ad55",
+          "imageUriBasePath": "https://ms.immowelt.org/95bdcf1a-f80d-4ecc-b445-5ca427aa7119/3d45ba7f-d9c9-4bc6-a462-f4f144a8ad55"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/35f20188-1443-4077-85c3-59df3221e6e3/177fa05c-95e3-4f26-ac48-27040a8d309b",
+          "imageUriBasePath": "https://ms.immowelt.org/35f20188-1443-4077-85c3-59df3221e6e3/177fa05c-95e3-4f26-ac48-27040a8d309b"
+        }
+      ],
+      "broker": {
+        "guid": 146097,
+        "sellerType": "PARTNER",
+        "companyName": "BEST PLACE Immobilien GmbH & Co. KG",
+        "partnerAward": "PREMIUM",
+        "immoweltExclusive": false,
+        "logoUri": "//filestore.immowelt.de/logo/100_eaea4c50dce942a7a60c5a1ad82f052a.jpg",
+        "logoUriHttps": "https://filestore.immowelt.de/logo/100_eaea4c50dce942a7a60c5a1ad82f052a.jpg"
+      },
+      "onlineId": "k2en632",
+      "projectData": {
+        "constructionStartDate": null,
+        "constructionEndDate": "2024",
+        "movingDate": null,
+        "logoUri": "https://ms.immowelt.org/07142e86-96da-46cb-a9dd-9542c3d6bb6e/436e3465-8b3c-4b69-865f-c1b666db3031",
+        "numberOfUnits": 16
+      },
+      "relatedItems": [
+        {
+          "itemType": "ESTATE",
+          "onlineId": "236fs5h",
+          "gok": "0cd58ce4-1790-4ac6-b866-7486d99eb2a9",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 2.0,
+          "roomsMax": 2.0,
+          "primaryPrice": {
+            "amountMin": 429000.0,
+            "amountMax": 429000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 75.7,
+            "sizeMax": 75.7,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "CELLAR_SHARE",
+            "NEW_BUILDING_PROJECT",
+            "PASSENGER_LIFT"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "23gut5h",
+          "gok": "45125a64-7c32-4fe6-b0d4-14339d4c8b1f",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 3.0,
+          "roomsMax": 3.0,
+          "primaryPrice": {
+            "amountMin": 495000.0,
+            "amountMax": 495000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 90.7,
+            "sizeMax": 90.7,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "CELLAR_SHARE",
+            "GROUND_FLOOR",
+            "NEW_BUILDING_PROJECT",
+            "PASSENGER_LIFT",
+            "TERRACE"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "234es5h",
+          "gok": "8a96b541-5b1c-490d-b4ab-518f8fbe5abb",
+          "projectId": null,
+          "title": "Hell und chic: Lichtdurchflutete 3-Zimmer-Wohnung mit Garten, Terrasse und Fußbodenheizung",
+          "roomsMin": 3.0,
+          "roomsMax": 3.0,
+          "primaryPrice": {
+            "amountMin": 505000.0,
+            "amountMax": 505000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 90.7,
+            "sizeMax": 90.7,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "CELLAR_SHARE",
+            "GROUND_FLOOR",
+            "NEW_BUILDING_PROJECT",
+            "PASSENGER_LIFT",
+            "TERRACE"
+          ]
+        }
+      ],
+      "estateGroups": [
+        "RESIDENTIAL"
+      ]
+    },
+    {
+      "id": "project_4748",
+      "itemType": "PROJECT",
+      "projectId": "4748",
+      "locationIds": [
+        522758,
+        529870,
+        528418,
+        499881,
+        26058110,
+        150696,
+        113886,
+        121726
+      ],
+      "place": {
+        "city": "Berlin"
+      },
+      "estateTypes": [
+        "APARTMENT"
+      ],
+      "distributionType": "SALE",
+      "title": "Petite Fleur",
+      "prices": [
+        {
+          "amountMin": 362000.0,
+          "amountMax": 809000.0,
+          "type": "PURCHASE_PRICE",
+          "currency": "EUR",
+          "attributes": []
+        }
+      ],
+      "areas": [
+        {
+          "sizeMin": 52.0,
+          "sizeMax": 106.0,
+          "type": "LIVING_AREA"
+        }
+      ],
+      "primaryArea": {
+        "sizeMin": 52.0,
+        "sizeMax": 106.0,
+        "type": "LIVING_AREA"
+      },
+      "primaryPrice": {
+        "amountMin": 362000.0,
+        "amountMax": 809000.0,
+        "type": "PURCHASE_PRICE",
+        "currency": "EUR",
+        "attributes": []
+      },
+      "roomsMin": 2.0,
+      "roomsMax": 4.0,
+      "timestamp": "2023-01-17T09:01:13.501Z",
+      "isNew": false,
+      "features": [
+        "NEW_BUILDING",
+        "NEW_BUILDING_PROJECT"
+      ],
+      "pictures": [
+        {
+          "imageUri": "https://ms.immowelt.org/e33f74ab-7a88-4710-baa8-f3f12f82b46a/08b64db1-c749-4967-9ecc-429ae39b268a",
+          "imageUriBasePath": "https://ms.immowelt.org/e33f74ab-7a88-4710-baa8-f3f12f82b46a/08b64db1-c749-4967-9ecc-429ae39b268a"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/8e0b51b6-f0d8-49a5-a96d-82bd4cd95d0a/e7d143d0-d8e3-466e-83d5-d1fb81ba2a5a",
+          "imageUriBasePath": "https://ms.immowelt.org/8e0b51b6-f0d8-49a5-a96d-82bd4cd95d0a/e7d143d0-d8e3-466e-83d5-d1fb81ba2a5a"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/0d808bda-f048-4d9d-aca9-811570e8c2cc/64863dea-fd5d-4c1f-be37-c78b61c463d7",
+          "imageUriBasePath": "https://ms.immowelt.org/0d808bda-f048-4d9d-aca9-811570e8c2cc/64863dea-fd5d-4c1f-be37-c78b61c463d7"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/a5a83cc7-08c8-4f7c-8353-f436434c3972/787a4f51-2891-42b3-bc8c-b85e61210588",
+          "imageUriBasePath": "https://ms.immowelt.org/a5a83cc7-08c8-4f7c-8353-f436434c3972/787a4f51-2891-42b3-bc8c-b85e61210588"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/f2a89898-a466-4484-8ad8-7d25541dc423/485bf83f-ff9f-49f2-8ca2-a5aaf05b3b76",
+          "imageUriBasePath": "https://ms.immowelt.org/f2a89898-a466-4484-8ad8-7d25541dc423/485bf83f-ff9f-49f2-8ca2-a5aaf05b3b76"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/302c4fc9-9234-44b5-82c7-cd7acb046f50/54f8cb32-fd12-493e-86d2-11811cd1e2db",
+          "imageUriBasePath": "https://ms.immowelt.org/302c4fc9-9234-44b5-82c7-cd7acb046f50/54f8cb32-fd12-493e-86d2-11811cd1e2db"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/bd576bd9-748e-42c9-ac10-65bfaae89540/bd204ea1-f770-44df-a783-e0b9c07bc2d7",
+          "imageUriBasePath": "https://ms.immowelt.org/bd576bd9-748e-42c9-ac10-65bfaae89540/bd204ea1-f770-44df-a783-e0b9c07bc2d7"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/5709cdc4-49b7-44c6-b8ae-1c7d7d772d87/e227cdee-db02-4177-8794-4e740b22f3e2",
+          "imageUriBasePath": "https://ms.immowelt.org/5709cdc4-49b7-44c6-b8ae-1c7d7d772d87/e227cdee-db02-4177-8794-4e740b22f3e2"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/10aa66e1-c63a-474a-975e-532ad5790751/71fc099e-cef2-493d-8774-660fdeb1d55a",
+          "imageUriBasePath": "https://ms.immowelt.org/10aa66e1-c63a-474a-975e-532ad5790751/71fc099e-cef2-493d-8774-660fdeb1d55a"
+        }
+      ],
+      "broker": {
+        "guid": 146097,
+        "sellerType": "PARTNER",
+        "companyName": "BEST PLACE Immobilien GmbH & Co. KG",
+        "partnerAward": "PREMIUM",
+        "immoweltExclusive": false,
+        "logoUri": "//filestore.immowelt.de/logo/100_eaea4c50dce942a7a60c5a1ad82f052a.jpg",
+        "logoUriHttps": "https://filestore.immowelt.de/logo/100_eaea4c50dce942a7a60c5a1ad82f052a.jpg"
+      },
+      "onlineId": "k2dn632",
+      "projectData": {
+        "constructionStartDate": null,
+        "constructionEndDate": "Q4 / 2024",
+        "movingDate": null,
+        "logoUri": "https://ms.immowelt.org/76a69e0c-7f99-4d70-8c8d-d14f80d89fcd/2fd507ec-d1e3-49f9-8011-ff745516847c",
+        "numberOfUnits": 27
+      },
+      "relatedItems": [
+        {
+          "itemType": "ESTATE",
+          "onlineId": "274eu59",
+          "gok": "a26ae004-98a8-4c2d-9808-0feed52c475e",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 2.0,
+          "roomsMax": 2.0,
+          "primaryPrice": {
+            "amountMin": 365000.0,
+            "amountMax": 365000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 62.52,
+            "sizeMax": 62.52,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "CELLAR_SHARE",
+            "GROUND_FLOOR",
+            "GARDEN",
+            "NEW_BUILDING_PROJECT",
+            "PASSENGER_LIFT",
+            "TERRACE"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "27vuu59",
+          "gok": "5330f1d5-4808-4f34-b8a8-dcb7338051a4",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 2.0,
+          "roomsMax": 2.0,
+          "primaryPrice": {
+            "amountMin": 388000.0,
+            "amountMax": 388000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 52.73,
+            "sizeMax": 52.73,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "CELLAR_SHARE",
+            "NEW_BUILDING_PROJECT",
+            "PASSENGER_LIFT"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "27qju59",
+          "gok": "34e7fb83-b2ec-4fe3-a51c-b4eada2ce1ac",
+          "projectId": null,
+          "title": "Pärchen-Domizil: Modern geschnittene 2-Zimmer-Wohnung mit Balkon im KfW-55-Neubau",
+          "roomsMin": 2.0,
+          "roomsMax": 2.0,
+          "primaryPrice": {
+            "amountMin": 402000.0,
+            "amountMax": 402000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 61.41,
+            "sizeMax": 61.41,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "CELLAR_SHARE",
+            "NEW_BUILDING_PROJECT",
+            "PASSENGER_LIFT"
+          ]
+        }
+      ],
+      "estateGroups": [
+        "RESIDENTIAL"
+      ]
+    },
+    {
+      "id": "project_4737",
+      "itemType": "PROJECT",
+      "projectId": "4737",
+      "locationIds": [
+        525663,
+        529870,
+        528418,
+        500019,
+        26058113,
+        150696,
+        113886,
+        121726
+      ],
+      "place": {
+        "city": "Berlin"
+      },
+      "estateTypes": [
+        "APARTMENT"
+      ],
+      "distributionType": "SALE",
+      "title": "Lieblingsgarten",
+      "prices": [
+        {
+          "amountMin": 235000.0,
+          "amountMax": 415000.0,
+          "type": "PURCHASE_PRICE",
+          "currency": "EUR",
+          "attributes": []
+        }
+      ],
+      "areas": [
+        {
+          "sizeMin": 41.0,
+          "sizeMax": 73.0,
+          "type": "LIVING_AREA"
+        }
+      ],
+      "primaryArea": {
+        "sizeMin": 41.0,
+        "sizeMax": 73.0,
+        "type": "LIVING_AREA"
+      },
+      "primaryPrice": {
+        "amountMin": 235000.0,
+        "amountMax": 415000.0,
+        "type": "PURCHASE_PRICE",
+        "currency": "EUR",
+        "attributes": []
+      },
+      "roomsMin": 2.0,
+      "roomsMax": 3.0,
+      "timestamp": "2023-01-12T09:24:30.476Z",
+      "isNew": false,
+      "features": [
+        "NEW_BUILDING",
+        "NEW_BUILDING_PROJECT"
+      ],
+      "pictures": [
+        {
+          "imageUri": "https://ms.immowelt.org/555909bf-bfe0-498f-91a4-386513637196/6267ed69-9992-410e-b589-1474e58d8e74",
+          "imageUriBasePath": "https://ms.immowelt.org/555909bf-bfe0-498f-91a4-386513637196/6267ed69-9992-410e-b589-1474e58d8e74"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/fafdf01d-0f29-4083-8710-be742d30a14d/30ede2de-38a2-4c89-9ead-b176447d4338",
+          "imageUriBasePath": "https://ms.immowelt.org/fafdf01d-0f29-4083-8710-be742d30a14d/30ede2de-38a2-4c89-9ead-b176447d4338"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/40c5a845-02de-4a06-851d-bc2536bf14a4/1e3847fb-954b-466a-945a-591614b09ac1",
+          "imageUriBasePath": "https://ms.immowelt.org/40c5a845-02de-4a06-851d-bc2536bf14a4/1e3847fb-954b-466a-945a-591614b09ac1"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/3981ff50-4a97-4963-bfd0-4d935aca99ae/acd65550-fb39-44df-8c81-9c776533c38b",
+          "imageUriBasePath": "https://ms.immowelt.org/3981ff50-4a97-4963-bfd0-4d935aca99ae/acd65550-fb39-44df-8c81-9c776533c38b"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/080a4c27-267b-4c98-bf5e-d459e3547fc9/b7c13045-f389-49d6-892d-0ee4e0c205eb",
+          "imageUriBasePath": "https://ms.immowelt.org/080a4c27-267b-4c98-bf5e-d459e3547fc9/b7c13045-f389-49d6-892d-0ee4e0c205eb"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/caa2e2a5-2c52-436c-903d-77cd64e78301/65e56a41-8279-40f4-9499-2faf2c40e834",
+          "imageUriBasePath": "https://ms.immowelt.org/caa2e2a5-2c52-436c-903d-77cd64e78301/65e56a41-8279-40f4-9499-2faf2c40e834"
+        }
+      ],
+      "broker": {
+        "guid": 146097,
+        "sellerType": "PARTNER",
+        "companyName": "BEST PLACE Immobilien GmbH & Co. KG",
+        "partnerAward": "PREMIUM",
+        "immoweltExclusive": false,
+        "logoUri": "//filestore.immowelt.de/logo/100_eaea4c50dce942a7a60c5a1ad82f052a.jpg",
+        "logoUriHttps": "https://filestore.immowelt.de/logo/100_eaea4c50dce942a7a60c5a1ad82f052a.jpg"
+      },
+      "onlineId": "k22n632",
+      "projectData": {
+        "constructionStartDate": null,
+        "constructionEndDate": null,
+        "movingDate": null,
+        "logoUri": "https://ms.immowelt.org/0430289b-78aa-4338-9db1-27faebf34bdb/f1e49ce8-e57a-4888-82b4-7909667eb7eb",
+        "numberOfUnits": 62
+      },
+      "relatedItems": [
+        {
+          "itemType": "ESTATE",
+          "onlineId": "27t765s",
+          "gok": "6b9baa54-f0fe-45e3-be3d-45e40722154e",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 2.0,
+          "roomsMax": 2.0,
+          "primaryPrice": {
+            "amountMin": 243700.0,
+            "amountMax": 243700.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 40.62,
+            "sizeMax": 40.62,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "CELLAR_SHARE",
+            "GROUND_FLOOR",
+            "NEW_BUILDING_PROJECT",
+            "PASSENGER_LIFT"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "276365s",
+          "gok": "6c2ad018-2381-4d7d-bb31-0a5b02057264",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 2.0,
+          "roomsMax": 2.0,
+          "primaryPrice": {
+            "amountMin": 248300.0,
+            "amountMax": 248300.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 41.88,
+            "sizeMax": 41.88,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "CELLAR_SHARE",
+            "NEW_BUILDING_PROJECT",
+            "PASSENGER_LIFT"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "27t465s",
+          "gok": "0d567d04-db71-4862-bacb-f1ce625a09ef",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 2.0,
+          "roomsMax": 2.0,
+          "primaryPrice": {
+            "amountMin": 252500.0,
+            "amountMax": 252500.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 41.88,
+            "sizeMax": 41.88,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "CELLAR_SHARE",
+            "NEW_BUILDING_PROJECT",
+            "PASSENGER_LIFT"
+          ]
+        }
+      ],
+      "estateGroups": [
+        "RESIDENTIAL"
+      ]
+    },
+    {
+      "id": "project_4736",
+      "itemType": "PROJECT",
+      "projectId": "4736",
+      "locationIds": [
+        529889,
+        529870,
+        528418,
+        499988,
+        26058107,
+        150696,
+        113886,
+        121726
+      ],
+      "place": {
+        "city": "Berlin"
+      },
+      "estateTypes": [
+        "APARTMENT"
+      ],
+      "distributionType": "SALE",
+      "title": "Morgentau",
+      "prices": [
+        {
+          "amountMin": 340000.0,
+          "amountMax": 1399000.0,
+          "type": "PURCHASE_PRICE",
+          "currency": "EUR",
+          "attributes": []
+        }
+      ],
+      "areas": [
+        {
+          "sizeMin": 47.0,
+          "sizeMax": 150.0,
+          "type": "LIVING_AREA"
+        }
+      ],
+      "primaryArea": {
+        "sizeMin": 47.0,
+        "sizeMax": 150.0,
+        "type": "LIVING_AREA"
+      },
+      "primaryPrice": {
+        "amountMin": 340000.0,
+        "amountMax": 1399000.0,
+        "type": "PURCHASE_PRICE",
+        "currency": "EUR",
+        "attributes": []
+      },
+      "roomsMin": 2.0,
+      "roomsMax": 4.0,
+      "timestamp": "2023-01-12T09:24:05.402Z",
+      "isNew": false,
+      "features": [
+        "NEW_BUILDING",
+        "NEW_BUILDING_PROJECT"
+      ],
+      "pictures": [
+        {
+          "imageUri": "https://ms.immowelt.org/8a8391dd-790e-41ac-9a90-de5270809815/2e09820c-31f0-4b32-9c2d-0fe04f4ae034",
+          "imageUriBasePath": "https://ms.immowelt.org/8a8391dd-790e-41ac-9a90-de5270809815/2e09820c-31f0-4b32-9c2d-0fe04f4ae034"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/ba37c346-37f3-4ec1-ab09-83449b898378/53371f13-ec19-4c16-8a46-9a7b18d70d61",
+          "imageUriBasePath": "https://ms.immowelt.org/ba37c346-37f3-4ec1-ab09-83449b898378/53371f13-ec19-4c16-8a46-9a7b18d70d61"
+        }
+      ],
+      "broker": {
+        "guid": 146097,
+        "sellerType": "PARTNER",
+        "companyName": "BEST PLACE Immobilien GmbH & Co. KG",
+        "partnerAward": "PREMIUM",
+        "immoweltExclusive": false,
+        "logoUri": "//filestore.immowelt.de/logo/100_eaea4c50dce942a7a60c5a1ad82f052a.jpg",
+        "logoUriHttps": "https://filestore.immowelt.de/logo/100_eaea4c50dce942a7a60c5a1ad82f052a.jpg"
+      },
+      "onlineId": "k2zm632",
+      "projectData": {
+        "constructionStartDate": null,
+        "constructionEndDate": "Q2 / 2024",
+        "movingDate": "Q2 / 2024",
+        "logoUri": "https://ms.immowelt.org/84b43b24-e9e3-4a34-bbe5-e8f98eeed7d0/77b242c1-ba12-494d-a8fa-ca108dd32834",
+        "numberOfUnits": 14
+      },
+      "relatedItems": [
+        {
+          "itemType": "ESTATE",
+          "onlineId": "23yzq5g",
+          "gok": "0cda8b64-8085-4198-8c2c-d945f00b627f",
+          "projectId": null,
+          "title": "Fein und elegant: 2-Zimmer-Wohnung mit Balkon, Fußbodenheizung und Parkett",
+          "roomsMin": 2.0,
+          "roomsMax": 2.0,
+          "primaryPrice": {
+            "amountMin": 389000.0,
+            "amountMax": 389000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 48.7,
+            "sizeMax": 48.7,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "CELLAR_SHARE",
+            "NEW_BUILDING_PROJECT",
+            "PASSENGER_LIFT"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "237zq5g",
+          "gok": "2ca843b1-0d7f-4135-b033-4234a3be39f2",
+          "projectId": null,
+          "title": "Wohnglück in Lichterfelde: Lichterfüllte Neubau-Balkon-Wohnung mit Parkett und Fußbodenheizung",
+          "roomsMin": 2.0,
+          "roomsMax": 2.0,
+          "primaryPrice": {
+            "amountMin": 389000.0,
+            "amountMax": 389000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 50.22,
+            "sizeMax": 50.22,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "CELLAR_SHARE",
+            "NEW_BUILDING_PROJECT",
+            "PASSENGER_LIFT"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "23j2r5g",
+          "gok": "8633397d-ef80-40ef-96ad-0baa8b680810",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 2.0,
+          "roomsMax": 2.0,
+          "primaryPrice": {
+            "amountMin": 399000.0,
+            "amountMax": 399000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 46.76,
+            "sizeMax": 46.76,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "CELLAR_SHARE",
+            "NEW_BUILDING_PROJECT",
+            "PASSENGER_LIFT"
+          ]
+        }
+      ],
+      "estateGroups": [
+        "RESIDENTIAL"
+      ]
+    },
+    {
+      "id": "project_4729",
+      "itemType": "PROJECT",
+      "projectId": "4729",
+      "locationIds": [
+        529879,
+        529870,
+        528418,
+        500028,
+        26058107,
+        150696,
+        113886,
+        121726
+      ],
+      "place": {
+        "city": "Berlin"
+      },
+      "estateTypes": [
+        "APARTMENT"
+      ],
+      "distributionType": "SALE",
+      "title": "The Martin",
+      "prices": [
+        {
+          "amountMin": 542000.0,
+          "amountMax": 945000.0,
+          "type": "PURCHASE_PRICE",
+          "currency": "EUR",
+          "attributes": []
+        }
+      ],
+      "areas": [
+        {
+          "sizeMin": 74.0,
+          "sizeMax": 118.0,
+          "type": "LIVING_AREA"
+        }
+      ],
+      "primaryArea": {
+        "sizeMin": 74.0,
+        "sizeMax": 118.0,
+        "type": "LIVING_AREA"
+      },
+      "primaryPrice": {
+        "amountMin": 542000.0,
+        "amountMax": 945000.0,
+        "type": "PURCHASE_PRICE",
+        "currency": "EUR",
+        "attributes": []
+      },
+      "roomsMin": 2.0,
+      "roomsMax": 4.0,
+      "timestamp": "2023-01-11T08:45:38.988Z",
+      "isNew": false,
+      "features": [
+        "NEW_BUILDING",
+        "NEW_BUILDING_PROJECT"
+      ],
+      "pictures": [
+        {
+          "imageUri": "https://ms.immowelt.org/791bb352-dbbb-42e2-8f71-6cf911f29ca5/f8848858-a925-47eb-8511-e5ddf76e6f5e",
+          "imageUriBasePath": "https://ms.immowelt.org/791bb352-dbbb-42e2-8f71-6cf911f29ca5/f8848858-a925-47eb-8511-e5ddf76e6f5e"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/7e10086e-5dfb-4cae-a430-cb174e74080a/b0c1126d-d8e9-4d65-a749-7505c4ebe9ea",
+          "imageUriBasePath": "https://ms.immowelt.org/7e10086e-5dfb-4cae-a430-cb174e74080a/b0c1126d-d8e9-4d65-a749-7505c4ebe9ea"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/69a61552-be8c-4114-9251-6e3701248298/e6ccf8b5-5e78-407e-aef0-a5f9961cab03",
+          "imageUriBasePath": "https://ms.immowelt.org/69a61552-be8c-4114-9251-6e3701248298/e6ccf8b5-5e78-407e-aef0-a5f9961cab03"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/4f25a605-0dea-4158-8085-5a23c3bab885/179951a7-03d6-48b2-b9d3-a57e6fa5f08f",
+          "imageUriBasePath": "https://ms.immowelt.org/4f25a605-0dea-4158-8085-5a23c3bab885/179951a7-03d6-48b2-b9d3-a57e6fa5f08f"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/fe55ab89-75cd-4d6b-956d-60551d0b4441/277dee7b-2e92-4dde-a981-538f7278580a",
+          "imageUriBasePath": "https://ms.immowelt.org/fe55ab89-75cd-4d6b-956d-60551d0b4441/277dee7b-2e92-4dde-a981-538f7278580a"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/5c51bca4-3d27-4e8e-8087-6e15e7e40cba/828c4738-70cf-4b67-afe5-5c14597b6091",
+          "imageUriBasePath": "https://ms.immowelt.org/5c51bca4-3d27-4e8e-8087-6e15e7e40cba/828c4738-70cf-4b67-afe5-5c14597b6091"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/5a0de65b-5ca7-4b25-9d17-62183c5e2d84/013bf73e-87c7-4da0-b544-0849e9452188",
+          "imageUriBasePath": "https://ms.immowelt.org/5a0de65b-5ca7-4b25-9d17-62183c5e2d84/013bf73e-87c7-4da0-b544-0849e9452188"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/c1c9f2b8-38aa-42b4-bcd2-7e03f0c5fdbd/5edf19d8-21e3-4c97-95be-abbeeeda8ada",
+          "imageUriBasePath": "https://ms.immowelt.org/c1c9f2b8-38aa-42b4-bcd2-7e03f0c5fdbd/5edf19d8-21e3-4c97-95be-abbeeeda8ada"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/e69b9a39-5e93-4260-a905-670e505f1fa1/981bd9a7-58db-4d8f-b5ef-65fca353a348",
+          "imageUriBasePath": "https://ms.immowelt.org/e69b9a39-5e93-4260-a905-670e505f1fa1/981bd9a7-58db-4d8f-b5ef-65fca353a348"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/968c59e1-dbad-496a-910f-44ddf6967381/7c06212c-9fba-4e89-bdf0-46f98a4f000c",
+          "imageUriBasePath": "https://ms.immowelt.org/968c59e1-dbad-496a-910f-44ddf6967381/7c06212c-9fba-4e89-bdf0-46f98a4f000c"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/dfdd00fa-1c0a-4987-94f7-36fdb098dd4d/bcf605d5-1ecb-41a1-81e4-b8d3b68f90d2",
+          "imageUriBasePath": "https://ms.immowelt.org/dfdd00fa-1c0a-4987-94f7-36fdb098dd4d/bcf605d5-1ecb-41a1-81e4-b8d3b68f90d2"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/500e4ef5-43f2-4883-a04f-b21650d5484d/12d523e2-7b31-430f-8d76-ef3dcdbb928d",
+          "imageUriBasePath": "https://ms.immowelt.org/500e4ef5-43f2-4883-a04f-b21650d5484d/12d523e2-7b31-430f-8d76-ef3dcdbb928d"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/a5819c30-9b04-4777-a69c-3edf766792ae/321944a3-20c8-49ed-90a2-1bc636b7ea65",
+          "imageUriBasePath": "https://ms.immowelt.org/a5819c30-9b04-4777-a69c-3edf766792ae/321944a3-20c8-49ed-90a2-1bc636b7ea65"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/ca8b4388-ed69-4e76-93cb-3f7015a023f5/7e03d85d-4e68-4884-80b7-958297bf795a",
+          "imageUriBasePath": "https://ms.immowelt.org/ca8b4388-ed69-4e76-93cb-3f7015a023f5/7e03d85d-4e68-4884-80b7-958297bf795a"
+        }
+      ],
+      "broker": {
+        "guid": 678606,
+        "sellerType": "PARTNER",
+        "companyName": "ohne-makler.net - Immobilien selbst vermarkten",
+        "partnerAward": "PREMIUM",
+        "immoweltExclusive": false,
+        "logoUri": "//filestore.immowelt.de/logo/100_cf5f597424f14c94b5e266695e2fb3a2.jpg",
+        "logoUriHttps": "https://filestore.immowelt.de/logo/100_cf5f597424f14c94b5e266695e2fb3a2.jpg"
+      },
+      "onlineId": "k2sm632",
+      "projectData": {
+        "constructionStartDate": null,
+        "constructionEndDate": null,
+        "movingDate": "September 2024",
+        "logoUri": null,
+        "numberOfUnits": 18
+      },
+      "relatedItems": [
+        {
+          "itemType": "ESTATE",
+          "onlineId": "28m425j",
+          "gok": "aa81a25d-d339-48bf-8d74-6b6637a14c74",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 2.0,
+          "roomsMax": 2.0,
+          "primaryPrice": {
+            "amountMin": 542000.0,
+            "amountMax": 542000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 74.22,
+            "sizeMax": 74.22,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "CELLAR_SHARE",
+            "BATH_WITH_TUB",
+            "GROUND_FLOOR",
+            "GARDEN",
+            "NEW_BUILDING_PROJECT",
+            "FREE_OF_COMMISSION",
+            "TERRACE"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "28h425j",
+          "gok": "fbd7fe7b-6019-4413-ac20-82f20453842f",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 3.0,
+          "roomsMax": 3.0,
+          "primaryPrice": {
+            "amountMin": 655000.0,
+            "amountMax": 655000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 90.11,
+            "sizeMax": 90.11,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "CELLAR_SHARE",
+            "BATH_WITH_TUB",
+            "GROUND_FLOOR",
+            "NEW_BUILDING_PROJECT",
+            "BARRIER_FREE",
+            "PASSENGER_LIFT",
+            "FREE_OF_COMMISSION"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "28cuq5d",
+          "gok": "d5e1c991-3f27-4125-b212-e90b326e75a2",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 4.0,
+          "roomsMax": 4.0,
+          "primaryPrice": {
+            "amountMin": 715000.0,
+            "amountMax": 715000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 94.9,
+            "sizeMax": 94.9,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "CELLAR_SHARE",
+            "NEW_BUILDING_PROJECT",
+            "BARRIER_FREE",
+            "PASSENGER_LIFT",
+            "FREE_OF_COMMISSION",
+            "BALCONY"
+          ]
+        }
+      ],
+      "estateGroups": [
+        "RESIDENTIAL"
+      ]
+    },
+    {
+      "id": "project_4722",
+      "itemType": "PROJECT",
+      "projectId": "4722",
+      "locationIds": [
+        527188,
+        529870,
+        528418,
+        499983,
+        26058103,
+        150696,
+        113886,
+        121726
+      ],
+      "place": {
+        "city": "Berlin"
+      },
+      "estateTypes": [
+        "APARTMENT"
+      ],
+      "distributionType": "SALE",
+      "title": "exklusives und individuelles wohnen im Kreuzberger Kiez mit Auf-Dach-Garten",
+      "prices": [
+        {
+          "amountMin": 1580000.0,
+          "amountMax": 1949000.0,
+          "type": "PURCHASE_PRICE",
+          "currency": "EUR",
+          "attributes": []
+        }
+      ],
+      "areas": [
+        {
+          "sizeMin": 145.0,
+          "sizeMax": 165.0,
+          "type": "LIVING_AREA"
+        }
+      ],
+      "primaryArea": {
+        "sizeMin": 145.0,
+        "sizeMax": 165.0,
+        "type": "LIVING_AREA"
+      },
+      "primaryPrice": {
+        "amountMin": 1580000.0,
+        "amountMax": 1949000.0,
+        "type": "PURCHASE_PRICE",
+        "currency": "EUR",
+        "attributes": []
+      },
+      "roomsMin": 1.0,
+      "roomsMax": 5.0,
+      "timestamp": "2023-01-09T15:09:16.586Z",
+      "isNew": false,
+      "features": [
+        "NEW_BUILDING",
+        "NEW_BUILDING_PROJECT"
+      ],
+      "pictures": [
+        {
+          "imageUri": "https://ms.immowelt.org/315c4ecf-f968-45b4-a7bd-17024ae8b620/d9af36e3-1f88-47ef-a2d7-d417ac13036e",
+          "imageUriBasePath": "https://ms.immowelt.org/315c4ecf-f968-45b4-a7bd-17024ae8b620/d9af36e3-1f88-47ef-a2d7-d417ac13036e"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/651f57b4-303d-4a8d-9b16-0173dcbbd822/57370a51-657a-4f11-aabd-7848505ecea9",
+          "imageUriBasePath": "https://ms.immowelt.org/651f57b4-303d-4a8d-9b16-0173dcbbd822/57370a51-657a-4f11-aabd-7848505ecea9"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/81a804f6-0ea2-4303-98a0-6039017ca7a9/738ec3b9-cacd-4567-9ba3-211b315349a0",
+          "imageUriBasePath": "https://ms.immowelt.org/81a804f6-0ea2-4303-98a0-6039017ca7a9/738ec3b9-cacd-4567-9ba3-211b315349a0"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/5c73cebf-54be-4c56-a467-1451bb5028e5/4b6c0f67-b71c-4d3e-94ad-6c7b01892707",
+          "imageUriBasePath": "https://ms.immowelt.org/5c73cebf-54be-4c56-a467-1451bb5028e5/4b6c0f67-b71c-4d3e-94ad-6c7b01892707"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/623f34b1-73d8-45fc-8a80-14a07533f110/ac6b19f8-678a-454a-ae0e-b9e9c2989b0b",
+          "imageUriBasePath": "https://ms.immowelt.org/623f34b1-73d8-45fc-8a80-14a07533f110/ac6b19f8-678a-454a-ae0e-b9e9c2989b0b"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/f2ba1c52-eb5e-4ec5-892d-c0b34c874e01/bc7579c7-2f96-4f33-9259-7c42f7e7c2b2",
+          "imageUriBasePath": "https://ms.immowelt.org/f2ba1c52-eb5e-4ec5-892d-c0b34c874e01/bc7579c7-2f96-4f33-9259-7c42f7e7c2b2"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/d9e6895b-f803-487a-802e-ee340ddb96a0/c68f2079-ee5b-45b3-95b4-02834f21ba0c",
+          "imageUriBasePath": "https://ms.immowelt.org/d9e6895b-f803-487a-802e-ee340ddb96a0/c68f2079-ee5b-45b3-95b4-02834f21ba0c"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/c2424ac4-d08d-4c96-9642-ac61eee753b6/e2e5466d-c693-4c99-b934-0f91bfe1a731",
+          "imageUriBasePath": "https://ms.immowelt.org/c2424ac4-d08d-4c96-9642-ac61eee753b6/e2e5466d-c693-4c99-b934-0f91bfe1a731"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/3443bd27-3555-49da-855e-f38d85e7a21c/753fece2-1eb7-463a-bed9-12ac8e98f649",
+          "imageUriBasePath": "https://ms.immowelt.org/3443bd27-3555-49da-855e-f38d85e7a21c/753fece2-1eb7-463a-bed9-12ac8e98f649"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/17320a41-d39b-4ae1-a9f2-888f50a66ff6/c139aaeb-584d-4a6a-8efc-10aa6383bbc8",
+          "imageUriBasePath": "https://ms.immowelt.org/17320a41-d39b-4ae1-a9f2-888f50a66ff6/c139aaeb-584d-4a6a-8efc-10aa6383bbc8"
+        }
+      ],
+      "broker": {
+        "guid": 50563,
+        "sellerType": "PARTNER",
+        "companyName": "Profi Select Coriolanus GmbH",
+        "partnerAward": "BUSINESS",
+        "immoweltExclusive": false,
+        "logoUri": "//filestore.immowelt.de/logo/100_28e1b54f25474a50a24ca9fea1bf48b7.jpg",
+        "logoUriHttps": "https://filestore.immowelt.de/logo/100_28e1b54f25474a50a24ca9fea1bf48b7.jpg"
+      },
+      "onlineId": "k2km632",
+      "projectData": {
+        "constructionStartDate": null,
+        "constructionEndDate": "07.2023",
+        "movingDate": "07.2023",
+        "logoUri": null,
+        "numberOfUnits": 4
+      },
+      "relatedItems": [
+        {
+          "itemType": "ESTATE",
+          "onlineId": "28uf95h",
+          "gok": "44d72d4a-5a1e-4c58-9791-8f508a41f944",
+          "projectId": null,
+          "title": "Fertigstellung Juli 2023 - exklusives und individuelles wohnen im Kreuzberger Kiez",
+          "roomsMin": 4.0,
+          "roomsMax": 4.0,
+          "primaryPrice": {
+            "amountMin": 1580342.0,
+            "amountMax": 1580342.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 145.0,
+            "sizeMax": 145.0,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "FLAT_SHARE_POSSIBLE",
+            "WHEELCHAIR_ACCESSIBLE",
+            "AVAILABLE_FOR_RENT",
+            "ROOF_TERRACE",
+            "BATH_WITH_TUB",
+            null,
+            "GARDEN",
+            "GARDEN_PART",
+            "GARDEN_SHARED",
+            "PASSENGER_LIFT",
+            "TERRACE",
+            "CELLAR_SHARE",
+            "NEW_BUILDING",
+            "LOGGIA",
+            "BATH_WITH_WINDOW",
+            "NEW_BUILDING_PROJECT",
+            "BARRIER_FREE",
+            "BALCONY"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "28sf95h",
+          "gok": "34ba1527-e63c-43a1-99d9-f57f65eb9fde",
+          "projectId": null,
+          "title": "Fertigstellung Juli 2023 - exklusives und individuelles wohnen im Kreuzberger Kiez",
+          "roomsMin": 4.0,
+          "roomsMax": 4.0,
+          "primaryPrice": {
+            "amountMin": 1627756.0,
+            "amountMax": 1627756.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 145.0,
+            "sizeMax": 145.0,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "FLAT_SHARE_POSSIBLE",
+            "WHEELCHAIR_ACCESSIBLE",
+            "AVAILABLE_FOR_RENT",
+            "ROOF_TERRACE",
+            "BATH_WITH_TUB",
+            null,
+            "GARDEN",
+            "GARDEN_PART",
+            "GARDEN_SHARED",
+            "PASSENGER_LIFT",
+            "TERRACE",
+            "CELLAR_SHARE",
+            "NEW_BUILDING",
+            "LOGGIA",
+            "BATH_WITH_WINDOW",
+            "NEW_BUILDING_PROJECT",
+            "BARRIER_FREE",
+            "BALCONY"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "28tf95h",
+          "gok": "a140f075-010d-4da5-92d4-f20ed6234dfe",
+          "projectId": null,
+          "title": "Fertigstellung Juli 2023 - exklusives und individuelles wohnen im Dachgeschoss im Kreuzberger Kiez mit Auf-Dach-Garten",
+          "roomsMin": 4.0,
+          "roomsMax": 4.0,
+          "primaryPrice": {
+            "amountMin": 1949394.0,
+            "amountMax": 1949394.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 165.0,
+            "sizeMax": 165.0,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "FLAT_SHARE_POSSIBLE",
+            "WHEELCHAIR_ACCESSIBLE",
+            "AVAILABLE_FOR_RENT",
+            "ROOF_TERRACE",
+            "BATH_WITH_TUB",
+            null,
+            "GARDEN",
+            "GARDEN_PART",
+            "GARDEN_SHARED",
+            "PASSENGER_LIFT",
+            "TERRACE",
+            "CELLAR_SHARE",
+            "NEW_BUILDING",
+            "LOGGIA",
+            "BATH_WITH_WINDOW",
+            "NEW_BUILDING_PROJECT",
+            "ATTIC",
+            "BARRIER_FREE",
+            "BALCONY"
+          ]
+        }
+      ],
+      "estateGroups": [
+        "RESIDENTIAL"
+      ]
+    },
+    {
+      "id": "project_4717",
+      "itemType": "PROJECT",
+      "projectId": "4717",
+      "locationIds": [
+        523947,
+        529870,
+        528418,
+        499928,
+        26058104,
+        150696,
+        113886,
+        121726
+      ],
+      "place": {
+        "city": "Berlin"
+      },
+      "estateTypes": [
+        "APARTMENT"
+      ],
+      "distributionType": "SALE",
+      "title": "Quartier 49 - Eigentumswohnungen",
+      "prices": [
+        {
+          "amountMin": 300000.0,
+          "amountMax": 675000.0,
+          "type": "PURCHASE_PRICE",
+          "currency": "EUR",
+          "attributes": []
+        }
+      ],
+      "areas": [
+        {
+          "sizeMin": 45.0,
+          "sizeMax": 97.0,
+          "type": "LIVING_AREA"
+        }
+      ],
+      "primaryArea": {
+        "sizeMin": 45.0,
+        "sizeMax": 97.0,
+        "type": "LIVING_AREA"
+      },
+      "primaryPrice": {
+        "amountMin": 300000.0,
+        "amountMax": 675000.0,
+        "type": "PURCHASE_PRICE",
+        "currency": "EUR",
+        "attributes": []
+      },
+      "roomsMin": 1.0,
+      "roomsMax": 4.0,
+      "timestamp": "2023-01-06T10:43:22.973Z",
+      "isNew": false,
+      "features": [
+        "NEW_BUILDING",
+        "NEW_BUILDING_PROJECT"
+      ],
+      "pictures": [
+        {
+          "imageUri": "https://ms.immowelt.org/91cf1765-8bb2-4e9e-8eec-17e2bd661335/473286bd-384e-4307-8d95-c75c9becda16",
+          "imageUriBasePath": "https://ms.immowelt.org/91cf1765-8bb2-4e9e-8eec-17e2bd661335/473286bd-384e-4307-8d95-c75c9becda16"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/ab64d7a9-1462-452b-83aa-3a985957c1c2/3aea8353-1fa0-4c2f-a4cd-c22dfa19f857",
+          "imageUriBasePath": "https://ms.immowelt.org/ab64d7a9-1462-452b-83aa-3a985957c1c2/3aea8353-1fa0-4c2f-a4cd-c22dfa19f857"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/14895424-b435-4650-af8a-209d290781d1/e134ea2b-e07b-4895-b945-26561706f01b",
+          "imageUriBasePath": "https://ms.immowelt.org/14895424-b435-4650-af8a-209d290781d1/e134ea2b-e07b-4895-b945-26561706f01b"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/ab641d36-32a6-4b07-b75e-df7ef961ce85/eb2ade2e-7cb9-479c-acda-07c5ccd77bf9",
+          "imageUriBasePath": "https://ms.immowelt.org/ab641d36-32a6-4b07-b75e-df7ef961ce85/eb2ade2e-7cb9-479c-acda-07c5ccd77bf9"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/f327dd24-3886-47f4-a934-8349361d66ce/4e58c277-2763-4166-af7d-ea0b015a7a37",
+          "imageUriBasePath": "https://ms.immowelt.org/f327dd24-3886-47f4-a934-8349361d66ce/4e58c277-2763-4166-af7d-ea0b015a7a37"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/3e6df40a-2aaf-424d-9919-f2f869459812/ca1bb927-6668-4913-8916-59e490d76da5",
+          "imageUriBasePath": "https://ms.immowelt.org/3e6df40a-2aaf-424d-9919-f2f869459812/ca1bb927-6668-4913-8916-59e490d76da5"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/619754e1-9f4d-42c3-b134-cf485397a408/46f60acc-39e7-460c-86da-a052e6f06689",
+          "imageUriBasePath": "https://ms.immowelt.org/619754e1-9f4d-42c3-b134-cf485397a408/46f60acc-39e7-460c-86da-a052e6f06689"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/fdb28a35-1813-45f9-b3aa-c2b618a740c2/0a798f7a-a389-4401-a224-022c25328ece",
+          "imageUriBasePath": "https://ms.immowelt.org/fdb28a35-1813-45f9-b3aa-c2b618a740c2/0a798f7a-a389-4401-a224-022c25328ece"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/ced8ecda-b709-4a98-a013-ad7a13d6af2f/c1a81b73-102d-4d0e-9b16-b2e3fa9ba0eb",
+          "imageUriBasePath": "https://ms.immowelt.org/ced8ecda-b709-4a98-a013-ad7a13d6af2f/c1a81b73-102d-4d0e-9b16-b2e3fa9ba0eb"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/40c15dd9-f893-465c-ac54-f654c8567c6c/4aff7691-22c6-4db0-a306-0266e68dc108",
+          "imageUriBasePath": "https://ms.immowelt.org/40c15dd9-f893-465c-ac54-f654c8567c6c/4aff7691-22c6-4db0-a306-0266e68dc108"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/284322bc-1612-4c82-900b-8bb8e9e5577e/49810a33-3205-429f-b8a4-4fc03b2f3b01",
+          "imageUriBasePath": "https://ms.immowelt.org/284322bc-1612-4c82-900b-8bb8e9e5577e/49810a33-3205-429f-b8a4-4fc03b2f3b01"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/a147a7d4-c4f2-4cdc-b975-9f661cff76aa/88326db0-3be3-4706-9bb0-2b96b32d58c3",
+          "imageUriBasePath": "https://ms.immowelt.org/a147a7d4-c4f2-4cdc-b975-9f661cff76aa/88326db0-3be3-4706-9bb0-2b96b32d58c3"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/788f4f8d-bdda-4910-9502-4df477236d53/2bf695a1-9e65-41c3-9246-65076a644227",
+          "imageUriBasePath": "https://ms.immowelt.org/788f4f8d-bdda-4910-9502-4df477236d53/2bf695a1-9e65-41c3-9246-65076a644227"
+        }
+      ],
+      "broker": {
+        "guid": 3083292,
+        "sellerType": "PARTNER",
+        "companyName": "BEST PLACE Living GmbH",
+        "partnerAward": "BUSINESS",
+        "immoweltExclusive": false,
+        "logoUri": "//filestore.immowelt.de/logo/100_ec37f5de78f64b8196d4479a38d41dc5.jpg",
+        "logoUriHttps": "https://filestore.immowelt.de/logo/100_ec37f5de78f64b8196d4479a38d41dc5.jpg"
+      },
+      "onlineId": "k2em632",
+      "projectData": {
+        "constructionStartDate": "2020",
+        "constructionEndDate": "2022",
+        "movingDate": "2023",
+        "logoUri": "https://ms.immowelt.org/9ef3f06d-8c8e-472a-acdb-8367afdfcd67/ff4b4bb0-decd-4f46-aa64-7598d417639f",
+        "numberOfUnits": 165
+      },
+      "relatedItems": [
+        {
+          "itemType": "ESTATE",
+          "onlineId": "27x6z5q",
+          "gok": "f494e1fb-0625-4110-82fb-49feafdc370f",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 2.0,
+          "roomsMax": 2.0,
+          "primaryPrice": {
+            "amountMin": 428000.0,
+            "amountMax": 428000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 56.14,
+            "sizeMax": 56.14,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "NEW_BUILDING_PROJECT",
+            "PASSENGER_LIFT",
+            "FREE_OF_COMMISSION",
+            "TERRACE"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "29rae5f",
+          "gok": "d1b5603a-1980-41ea-a0b8-5b443ae9256c",
+          "projectId": null,
+          "title": "Modernes Wohnen mit Weitblick und Süd-Terrasse in Heinersdorf",
+          "roomsMin": 2.0,
+          "roomsMax": 2.0,
+          "primaryPrice": {
+            "amountMin": 455000.0,
+            "amountMax": 455000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 57.09,
+            "sizeMax": 57.09,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "NEW_BUILDING_PROJECT",
+            "ATTIC",
+            "PASSENGER_LIFT",
+            "FREE_OF_COMMISSION",
+            "TERRACE"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "2727z5q",
+          "gok": "f7659219-774b-492c-b2e9-98f1b0057786",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 3.0,
+          "roomsMax": 3.0,
+          "primaryPrice": {
+            "amountMin": 488000.0,
+            "amountMax": 488000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 58.5,
+            "sizeMax": 58.5,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "NEW_BUILDING_PROJECT",
+            "PASSENGER_LIFT"
+          ]
+        }
+      ],
+      "estateGroups": [
+        "RESIDENTIAL"
+      ]
+    },
+    {
+      "id": "project_4716",
+      "itemType": "PROJECT",
+      "projectId": "4716",
+      "locationIds": [
+        529168,
+        529870,
+        528418,
+        499911,
+        26058113,
+        150696,
+        113886,
+        121726
+      ],
+      "place": {
+        "city": "Berlin"
+      },
+      "estateTypes": [
+        "APARTMENT"
+      ],
+      "distributionType": "SALE",
+      "title": "Maison Papillon - Bezugsfertige Wohnungen",
+      "prices": [
+        {
+          "amountMin": 698000.0,
+          "amountMax": 898000.0,
+          "type": "PURCHASE_PRICE",
+          "currency": "EUR",
+          "attributes": []
+        }
+      ],
+      "areas": [
+        {
+          "sizeMin": 102.0,
+          "sizeMax": 136.0,
+          "type": "LIVING_AREA"
+        }
+      ],
+      "primaryArea": {
+        "sizeMin": 102.0,
+        "sizeMax": 136.0,
+        "type": "LIVING_AREA"
+      },
+      "primaryPrice": {
+        "amountMin": 698000.0,
+        "amountMax": 898000.0,
+        "type": "PURCHASE_PRICE",
+        "currency": "EUR",
+        "attributes": []
+      },
+      "roomsMin": 4.0,
+      "roomsMax": 4.0,
+      "timestamp": "2023-01-06T10:41:50.869Z",
+      "isNew": false,
+      "features": [
+        "NEW_BUILDING",
+        "NEW_BUILDING_PROJECT"
+      ],
+      "pictures": [
+        {
+          "imageUri": "https://ms.immowelt.org/1d7c64ac-a76f-4be0-b567-d662703e5db4/b3e5941f-8696-4a7d-8e6a-26714a76bef5",
+          "imageUriBasePath": "https://ms.immowelt.org/1d7c64ac-a76f-4be0-b567-d662703e5db4/b3e5941f-8696-4a7d-8e6a-26714a76bef5"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/8ce3a8de-39b5-414c-b02f-b9fc1f954d11/33e1c9f6-07a5-4ec9-ac4a-db1254263451",
+          "imageUriBasePath": "https://ms.immowelt.org/8ce3a8de-39b5-414c-b02f-b9fc1f954d11/33e1c9f6-07a5-4ec9-ac4a-db1254263451"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/03365fa7-9ebf-4c0b-966d-635f059ed399/4e1b935e-37d4-4dbc-b62e-cba0c11c01a2",
+          "imageUriBasePath": "https://ms.immowelt.org/03365fa7-9ebf-4c0b-966d-635f059ed399/4e1b935e-37d4-4dbc-b62e-cba0c11c01a2"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/4440847b-9bb9-4e30-a642-31ca552234a9/9fe31344-f28a-4a07-a216-b38aaf32268c",
+          "imageUriBasePath": "https://ms.immowelt.org/4440847b-9bb9-4e30-a642-31ca552234a9/9fe31344-f28a-4a07-a216-b38aaf32268c"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/206acf56-6e38-4221-9885-4f198cd6c369/2a0168aa-bb2c-45cb-8d18-8381a10b7c06",
+          "imageUriBasePath": "https://ms.immowelt.org/206acf56-6e38-4221-9885-4f198cd6c369/2a0168aa-bb2c-45cb-8d18-8381a10b7c06"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/d0392dc2-fec4-48f1-b92e-449eedeb245c/c9a6e62e-7728-4971-8a79-ae2e39d4fd5f",
+          "imageUriBasePath": "https://ms.immowelt.org/d0392dc2-fec4-48f1-b92e-449eedeb245c/c9a6e62e-7728-4971-8a79-ae2e39d4fd5f"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/2001f7a7-2dfa-42ad-96e0-443fde74c937/3f55a940-7797-477d-b1c5-1c521a5ed394",
+          "imageUriBasePath": "https://ms.immowelt.org/2001f7a7-2dfa-42ad-96e0-443fde74c937/3f55a940-7797-477d-b1c5-1c521a5ed394"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/08507190-591e-4506-8451-c5a17f59647c/b2119dc4-2e63-422b-9db0-08f0dab249bb",
+          "imageUriBasePath": "https://ms.immowelt.org/08507190-591e-4506-8451-c5a17f59647c/b2119dc4-2e63-422b-9db0-08f0dab249bb"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/e9679619-bac0-4068-b9e4-4fd338bbecb0/c7b6828f-a3e3-47e5-9a57-5a80d229d6bc",
+          "imageUriBasePath": "https://ms.immowelt.org/e9679619-bac0-4068-b9e4-4fd338bbecb0/c7b6828f-a3e3-47e5-9a57-5a80d229d6bc"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/1d35ac31-f0ff-4825-a60d-b4b66f18ae6e/84411b5c-bf60-471c-addc-ce4304e416f5",
+          "imageUriBasePath": "https://ms.immowelt.org/1d35ac31-f0ff-4825-a60d-b4b66f18ae6e/84411b5c-bf60-471c-addc-ce4304e416f5"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/96941716-c8ce-4264-a5c8-63d61168202d/f3755305-9ad5-429e-a97f-9983d94cf689",
+          "imageUriBasePath": "https://ms.immowelt.org/96941716-c8ce-4264-a5c8-63d61168202d/f3755305-9ad5-429e-a97f-9983d94cf689"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/9fc6cfe3-9ed7-4fe0-87bb-3b50c9bf8b56/afbc3f49-93a5-4d2e-92ec-8e34bc439a4a",
+          "imageUriBasePath": "https://ms.immowelt.org/9fc6cfe3-9ed7-4fe0-87bb-3b50c9bf8b56/afbc3f49-93a5-4d2e-92ec-8e34bc439a4a"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/652a6e9a-ac95-4b0d-9bf4-3d4d27afb277/c0961e45-e7fd-4611-82c6-aa43bd90aac2",
+          "imageUriBasePath": "https://ms.immowelt.org/652a6e9a-ac95-4b0d-9bf4-3d4d27afb277/c0961e45-e7fd-4611-82c6-aa43bd90aac2"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/a7e97316-cba4-4c93-92ed-41f083ba6da9/053146bd-c318-4be0-88f5-05b2c35969ef",
+          "imageUriBasePath": "https://ms.immowelt.org/a7e97316-cba4-4c93-92ed-41f083ba6da9/053146bd-c318-4be0-88f5-05b2c35969ef"
+        }
+      ],
+      "broker": {
+        "guid": 3083292,
+        "sellerType": "PARTNER",
+        "companyName": "BEST PLACE Living GmbH",
+        "partnerAward": "BUSINESS",
+        "immoweltExclusive": false,
+        "logoUri": "//filestore.immowelt.de/logo/100_ec37f5de78f64b8196d4479a38d41dc5.jpg",
+        "logoUriHttps": "https://filestore.immowelt.de/logo/100_ec37f5de78f64b8196d4479a38d41dc5.jpg"
+      },
+      "onlineId": "k2dm632",
+      "projectData": {
+        "constructionStartDate": null,
+        "constructionEndDate": "Q2/2022",
+        "movingDate": "sofort",
+        "logoUri": "https://ms.immowelt.org/6cc95176-d6a9-4a37-8a4d-7da1aba9564b/a67aa468-c57c-427b-8f80-e69f6feec753",
+        "numberOfUnits": 3
+      },
+      "relatedItems": [
+        {
+          "itemType": "ESTATE",
+          "onlineId": "276dz5q",
+          "gok": "d6f56aff-95bf-4c12-ac79-18d7cea7eef6",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 4.0,
+          "roomsMax": 4.0,
+          "primaryPrice": {
+            "amountMin": 698000.0,
+            "amountMax": 698000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 102.13,
+            "sizeMax": 102.13,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "NEW_BUILDING_PROJECT",
+            "FREE_OF_COMMISSION",
+            "BALCONY"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "27hcz5q",
+          "gok": "0c2383c6-2aae-44f4-aaf3-4dce77a0f01f",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 4.0,
+          "roomsMax": 4.0,
+          "primaryPrice": {
+            "amountMin": 898000.0,
+            "amountMax": 898000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 134.28,
+            "sizeMax": 134.28,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "GARDEN",
+            "NEW_BUILDING_PROJECT",
+            "FREE_OF_COMMISSION",
+            "BALCONY",
+            "TERRACE"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "27kdz5q",
+          "gok": "27a55aa3-5304-48c3-a854-eba3139263b4",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 4.0,
+          "roomsMax": 4.0,
+          "primaryPrice": {
+            "amountMin": 898000.0,
+            "amountMax": 898000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 136.2,
+            "sizeMax": 136.2,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "GARDEN",
+            "NEW_BUILDING_PROJECT",
+            "FREE_OF_COMMISSION",
+            "BALCONY",
+            "TERRACE"
+          ]
+        }
+      ],
+      "estateGroups": [
+        "RESIDENTIAL"
+      ]
+    },
+    {
+      "id": "project_4689",
+      "itemType": "PROJECT",
+      "projectId": "4689",
+      "locationIds": [
+        532026,
+        529870,
+        528418,
+        499980,
+        26058113,
+        150696,
+        113886,
+        121726
+      ],
+      "place": {
+        "city": "Berlin"
+      },
+      "estateTypes": [
+        "APARTMENT"
+      ],
+      "distributionType": "SALE",
+      "title": "AM TEGELER SEE",
+      "prices": [
+        {
+          "amountMin": 875000.0,
+          "amountMax": 3899000.0,
+          "type": "PURCHASE_PRICE",
+          "currency": "EUR",
+          "attributes": []
+        }
+      ],
+      "areas": [
+        {
+          "sizeMin": 109.0,
+          "sizeMax": 243.0,
+          "type": "LIVING_AREA"
+        }
+      ],
+      "primaryArea": {
+        "sizeMin": 109.0,
+        "sizeMax": 243.0,
+        "type": "LIVING_AREA"
+      },
+      "primaryPrice": {
+        "amountMin": 875000.0,
+        "amountMax": 3899000.0,
+        "type": "PURCHASE_PRICE",
+        "currency": "EUR",
+        "attributes": []
+      },
+      "roomsMin": 3.0,
+      "roomsMax": 4.0,
+      "timestamp": "2023-01-02T08:07:46.174Z",
+      "isNew": false,
+      "features": [
+        "NEW_BUILDING",
+        "NEW_BUILDING_PROJECT"
+      ],
+      "pictures": [
+        {
+          "imageUri": "https://ms.immowelt.org/8103a6ed-021f-4064-8350-2958c106b471/2df65b69-5392-46cf-a8e2-ddd7feb8b66b",
+          "imageUriBasePath": "https://ms.immowelt.org/8103a6ed-021f-4064-8350-2958c106b471/2df65b69-5392-46cf-a8e2-ddd7feb8b66b"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/5a169bf2-e961-4a5f-a1a2-8435b8f10a84/884facc1-8636-4a92-8ff9-5a5fd09b6762",
+          "imageUriBasePath": "https://ms.immowelt.org/5a169bf2-e961-4a5f-a1a2-8435b8f10a84/884facc1-8636-4a92-8ff9-5a5fd09b6762"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/f60c0f01-0236-415a-a975-54ca07d7a09a/82833f99-baf0-43d2-8408-eace889a0023",
+          "imageUriBasePath": "https://ms.immowelt.org/f60c0f01-0236-415a-a975-54ca07d7a09a/82833f99-baf0-43d2-8408-eace889a0023"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/860c877b-ee20-416e-8ec4-fd094556c0b2/35fe17d6-2e70-4399-b524-7f1b1c7d8f9f",
+          "imageUriBasePath": "https://ms.immowelt.org/860c877b-ee20-416e-8ec4-fd094556c0b2/35fe17d6-2e70-4399-b524-7f1b1c7d8f9f"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/0c3de11e-4433-468b-9a2c-a962743303bc/0a2fec84-e055-4e30-87b6-a59bf167a924",
+          "imageUriBasePath": "https://ms.immowelt.org/0c3de11e-4433-468b-9a2c-a962743303bc/0a2fec84-e055-4e30-87b6-a59bf167a924"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/0f32dd81-259c-42af-8607-fdd7f0f14b2e/da0e70ec-20eb-444c-aa07-1f7bdd91b5ce",
+          "imageUriBasePath": "https://ms.immowelt.org/0f32dd81-259c-42af-8607-fdd7f0f14b2e/da0e70ec-20eb-444c-aa07-1f7bdd91b5ce"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/c7ac2211-ee61-4ab9-b081-3124407179d2/b32c04a7-4793-49d5-b43e-0fde5e75be81",
+          "imageUriBasePath": "https://ms.immowelt.org/c7ac2211-ee61-4ab9-b081-3124407179d2/b32c04a7-4793-49d5-b43e-0fde5e75be81"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/40821172-308c-4a89-a990-20659ecdf541/fb9a9742-9955-45d9-9d90-a3fb99474378",
+          "imageUriBasePath": "https://ms.immowelt.org/40821172-308c-4a89-a990-20659ecdf541/fb9a9742-9955-45d9-9d90-a3fb99474378"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/9894f4f0-8d23-4a0b-b0e7-470b911414c4/24b5b913-3938-4d75-9969-ad8d4a2fd396",
+          "imageUriBasePath": "https://ms.immowelt.org/9894f4f0-8d23-4a0b-b0e7-470b911414c4/24b5b913-3938-4d75-9969-ad8d4a2fd396"
+        }
+      ],
+      "broker": {
+        "guid": 69448,
+        "sellerType": "PARTNER",
+        "companyName": "Engel & Völkers Projektvertrieb Berlin",
+        "partnerAward": "BUSINESS",
+        "immoweltExclusive": false,
+        "logoUri": "//filestore.immowelt.de/logo/100_7084dd43befb44249a39df7cc1db5e2e.jpg",
+        "logoUriHttps": "https://filestore.immowelt.de/logo/100_7084dd43befb44249a39df7cc1db5e2e.jpg"
+      },
+      "onlineId": "k2jl632",
+      "projectData": {
+        "constructionStartDate": "2023",
+        "constructionEndDate": "Fertigstellung vsl. Ende 2024",
+        "movingDate": null,
+        "logoUri": "https://ms.immowelt.org/3fbfba8c-8e68-49b7-b66b-2328eb063f05/805673aa-afc5-4d9f-99eb-0940d0966b60",
+        "numberOfUnits": 17
+      },
+      "relatedItems": [
+        {
+          "itemType": "ESTATE",
+          "onlineId": "29a9t58",
+          "gok": "2f52bd43-f58f-4b46-a04a-5dc9b59a9243",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 3.0,
+          "roomsMax": 3.0,
+          "primaryPrice": {
+            "amountMin": 875000.0,
+            "amountMax": 875000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 109.22,
+            "sizeMax": 109.22,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "NEW_BUILDING",
+            "PROJECTED",
+            "NEW_BUILDING_PROJECT",
+            "FREE_OF_COMMISSION",
+            "BALCONY",
+            "TERRACE"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "28yem5e",
+          "gok": "7ad8d6d0-b1e0-450d-a82f-b1e47c9eb226",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 3.0,
+          "roomsMax": 3.0,
+          "primaryPrice": {
+            "amountMin": 899000.0,
+            "amountMax": 899000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 111.08,
+            "sizeMax": 111.08,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "TERRACE",
+            "NEW_BUILDING",
+            "NEW_BUILDING_PROJECT",
+            "FREE_OF_COMMISSION",
+            "GARDEN",
+            "PROJECTED"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "284fm5e",
+          "gok": "2b0173b1-36cc-414d-aecb-59ffabb06485",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 3.0,
+          "roomsMax": 3.0,
+          "primaryPrice": {
+            "amountMin": 929000.0,
+            "amountMax": 929000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 109.04,
+            "sizeMax": 109.04,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "TERRACE",
+            "NEW_BUILDING",
+            "NEW_BUILDING_PROJECT",
+            "FREE_OF_COMMISSION",
+            "BALCONY",
+            "PROJECTED"
+          ]
+        }
+      ],
+      "estateGroups": [
+        "RESIDENTIAL"
+      ]
+    },
+    {
+      "id": "project_4558",
+      "itemType": "PROJECT",
+      "projectId": "4558",
+      "locationIds": [
+        525261,
+        529870,
+        528418,
+        500038,
+        26058104,
+        150696,
+        113886,
+        121726
+      ],
+      "place": {
+        "city": "Berlin"
+      },
+      "estateTypes": [
+        "APARTMENT",
+        "HOUSE"
+      ],
+      "distributionType": "SALE",
+      "title": "Berliner Allee 94 in 13088 Berlin Weißensee",
+      "prices": [
+        {
+          "amountMin": 150000.0,
+          "amountMax": 1350000.0,
+          "type": "PURCHASE_PRICE",
+          "currency": "EUR",
+          "attributes": []
+        }
+      ],
+      "areas": [
+        {
+          "sizeMin": 17.0,
+          "sizeMax": 138.0,
+          "type": "LIVING_AREA"
+        }
+      ],
+      "primaryArea": {
+        "sizeMin": 17.0,
+        "sizeMax": 138.0,
+        "type": "LIVING_AREA"
+      },
+      "primaryPrice": {
+        "amountMin": 150000.0,
+        "amountMax": 1350000.0,
+        "type": "PURCHASE_PRICE",
+        "currency": "EUR",
+        "attributes": []
+      },
+      "roomsMin": 1.0,
+      "roomsMax": 6.0,
+      "timestamp": "2022-11-25T20:23:07.923Z",
+      "isNew": false,
+      "features": [
+        "NEW_BUILDING",
+        "NEW_BUILDING_PROJECT"
+      ],
+      "pictures": [
+        {
+          "imageUri": "https://ms.immowelt.org/44554b60-c14f-4e1e-a6ac-e677100846c3/204287de-e5f3-46fe-8bab-1cae4e32adeb",
+          "imageUriBasePath": "https://ms.immowelt.org/44554b60-c14f-4e1e-a6ac-e677100846c3/204287de-e5f3-46fe-8bab-1cae4e32adeb"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/8f27cee9-0d9e-472c-ae2f-130e223c5de1/b3796ab9-6f51-4c0a-ab9a-154959778454",
+          "imageUriBasePath": "https://ms.immowelt.org/8f27cee9-0d9e-472c-ae2f-130e223c5de1/b3796ab9-6f51-4c0a-ab9a-154959778454"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/9f331fbb-edd3-4f19-8b5b-85954742429d/c6ccd72d-0971-4b90-a707-757000b4b707",
+          "imageUriBasePath": "https://ms.immowelt.org/9f331fbb-edd3-4f19-8b5b-85954742429d/c6ccd72d-0971-4b90-a707-757000b4b707"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/432fca1d-1ac4-4a8b-b1f6-794e7d8edeb2/036a3a3e-7f10-411e-9542-b2a9c27951d3",
+          "imageUriBasePath": "https://ms.immowelt.org/432fca1d-1ac4-4a8b-b1f6-794e7d8edeb2/036a3a3e-7f10-411e-9542-b2a9c27951d3"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/7d4647dd-e731-4c38-b1bc-8a2d790a3146/bf964d47-3400-474a-ae41-40c1375fb6b0",
+          "imageUriBasePath": "https://ms.immowelt.org/7d4647dd-e731-4c38-b1bc-8a2d790a3146/bf964d47-3400-474a-ae41-40c1375fb6b0"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/d8adb7c0-8640-419f-b3d4-9a0c64b2f83c/e3f03576-ce1d-43f2-afd5-c2fe7503d30a",
+          "imageUriBasePath": "https://ms.immowelt.org/d8adb7c0-8640-419f-b3d4-9a0c64b2f83c/e3f03576-ce1d-43f2-afd5-c2fe7503d30a"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/0b34110c-afbb-4b90-9c53-e12be407f728/ca201768-3523-4690-bdb4-deb254bb8df1",
+          "imageUriBasePath": "https://ms.immowelt.org/0b34110c-afbb-4b90-9c53-e12be407f728/ca201768-3523-4690-bdb4-deb254bb8df1"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/a4752d5a-79ef-4b9c-a3ab-074925f3f9c0/8323de3e-1f74-4b35-846e-a6e2dba64cf6",
+          "imageUriBasePath": "https://ms.immowelt.org/a4752d5a-79ef-4b9c-a3ab-074925f3f9c0/8323de3e-1f74-4b35-846e-a6e2dba64cf6"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/bd6b28e3-0bb8-40df-aeab-d214310567af/6592c69c-64a0-47e0-aa25-5dd8cd2cbe09",
+          "imageUriBasePath": "https://ms.immowelt.org/bd6b28e3-0bb8-40df-aeab-d214310567af/6592c69c-64a0-47e0-aa25-5dd8cd2cbe09"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/784f70ba-87fe-4611-9aae-f17db430b326/6315beeb-0399-4f7f-8dd6-93fc440eb86e",
+          "imageUriBasePath": "https://ms.immowelt.org/784f70ba-87fe-4611-9aae-f17db430b326/6315beeb-0399-4f7f-8dd6-93fc440eb86e"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/aa4c35fe-300c-4228-a41d-c410dee8adb2/745d7f72-ca73-4384-b31b-430a8c97aac9",
+          "imageUriBasePath": "https://ms.immowelt.org/aa4c35fe-300c-4228-a41d-c410dee8adb2/745d7f72-ca73-4384-b31b-430a8c97aac9"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/e6d76883-03ff-476d-a873-35d754285dab/5cc018a6-e680-4e05-99ea-a2e0af466201",
+          "imageUriBasePath": "https://ms.immowelt.org/e6d76883-03ff-476d-a873-35d754285dab/5cc018a6-e680-4e05-99ea-a2e0af466201"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/77789175-5a1d-4326-a6df-74f4a97eb70c/812636bc-2343-496b-8a59-596f2ff6941d",
+          "imageUriBasePath": "https://ms.immowelt.org/77789175-5a1d-4326-a6df-74f4a97eb70c/812636bc-2343-496b-8a59-596f2ff6941d"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/1313f9f8-664f-428e-90f3-e6f2c0cf4048/84b87738-2693-49d3-9bdf-ebb347673815",
+          "imageUriBasePath": "https://ms.immowelt.org/1313f9f8-664f-428e-90f3-e6f2c0cf4048/84b87738-2693-49d3-9bdf-ebb347673815"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/7e0c6b0e-9dcb-4fe6-b2cc-1db7f94a1aad/0a1665f6-0bd0-4ee1-a5e9-b410961ded50",
+          "imageUriBasePath": "https://ms.immowelt.org/7e0c6b0e-9dcb-4fe6-b2cc-1db7f94a1aad/0a1665f6-0bd0-4ee1-a5e9-b410961ded50"
+        }
+      ],
+      "broker": {
+        "guid": 7371929,
+        "sellerType": "PARTNER",
+        "companyName": "PROGENEA GmbH & Co. Liegenschaften KG",
+        "partnerAward": null,
+        "immoweltExclusive": false,
+        "logoUri": "//filestore.immowelt.de/logo/100_6ad22cec14bd45fda3bd48e0ab2ddb61.jpg",
+        "logoUriHttps": "https://filestore.immowelt.de/logo/100_6ad22cec14bd45fda3bd48e0ab2ddb61.jpg"
+      },
+      "onlineId": "k2fg632",
+      "projectData": {
+        "constructionStartDate": "2022",
+        "constructionEndDate": "2024",
+        "movingDate": "2024",
+        "logoUri": "https://ms.immowelt.org/00a19bfd-d4cc-4997-ba89-2f80132f1790/cab64961-767e-4529-8f03-fbfcaecb9fe6",
+        "numberOfUnits": 60
+      },
+      "relatedItems": [],
+      "estateGroups": [
+        "RESIDENTIAL"
+      ]
+    },
+    {
+      "id": "project_4545",
+      "itemType": "PROJECT",
+      "projectId": "4545",
+      "locationIds": [
+        530487,
+        529870,
+        528418,
+        500045,
+        26058105,
+        150696,
+        113886,
+        121726
+      ],
+      "place": {
+        "city": "Berlin"
+      },
+      "estateTypes": [
+        "APARTMENT"
+      ],
+      "distributionType": "SALE",
+      "title": "VIERFALT",
+      "prices": [
+        {
+          "amountMin": 216000.0,
+          "amountMax": 1469000.0,
+          "type": "PURCHASE_PRICE",
+          "currency": "EUR",
+          "attributes": []
+        }
+      ],
+      "areas": [
+        {
+          "sizeMin": 29.0,
+          "sizeMax": 155.0,
+          "type": "LIVING_AREA"
+        }
+      ],
+      "primaryArea": {
+        "sizeMin": 29.0,
+        "sizeMax": 155.0,
+        "type": "LIVING_AREA"
+      },
+      "primaryPrice": {
+        "amountMin": 216000.0,
+        "amountMax": 1469000.0,
+        "type": "PURCHASE_PRICE",
+        "currency": "EUR",
+        "attributes": []
+      },
+      "roomsMin": 1.0,
+      "roomsMax": 6.0,
+      "timestamp": "2022-11-23T16:43:50.162Z",
+      "isNew": false,
+      "features": [
+        "NEW_BUILDING",
+        "NEW_BUILDING_PROJECT"
+      ],
+      "pictures": [
+        {
+          "imageUri": "https://ms.immowelt.org/5ef5ac15-5521-48fd-8963-893f03296314/ed3edaee-891a-419f-8118-be118fcab83f",
+          "imageUriBasePath": "https://ms.immowelt.org/5ef5ac15-5521-48fd-8963-893f03296314/ed3edaee-891a-419f-8118-be118fcab83f"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/19cda09e-f162-4102-806b-9abe7e677fdd/b70bebf2-3cba-4cfe-aa82-c07602233809",
+          "imageUriBasePath": "https://ms.immowelt.org/19cda09e-f162-4102-806b-9abe7e677fdd/b70bebf2-3cba-4cfe-aa82-c07602233809"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/984ae4cd-ab0f-4d6f-ac61-82d659d56345/d9b20c40-9daf-4f6b-bd68-0374ae24f0a3",
+          "imageUriBasePath": "https://ms.immowelt.org/984ae4cd-ab0f-4d6f-ac61-82d659d56345/d9b20c40-9daf-4f6b-bd68-0374ae24f0a3"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/641df4fb-9b16-4baa-9def-c59514a8d1ad/2c0b63f3-80a3-4f5b-8d14-9667a1c65df5",
+          "imageUriBasePath": "https://ms.immowelt.org/641df4fb-9b16-4baa-9def-c59514a8d1ad/2c0b63f3-80a3-4f5b-8d14-9667a1c65df5"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/1c6fcc31-6260-4465-9ded-aabc22ef0e39/39f5451b-548e-4bb0-8634-7fe9e500385a",
+          "imageUriBasePath": "https://ms.immowelt.org/1c6fcc31-6260-4465-9ded-aabc22ef0e39/39f5451b-548e-4bb0-8634-7fe9e500385a"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/cfed0ca4-8965-4f1e-98d4-67c1bd972fe8/4ddf161b-ba41-4a5b-bc84-47375745eeca",
+          "imageUriBasePath": "https://ms.immowelt.org/cfed0ca4-8965-4f1e-98d4-67c1bd972fe8/4ddf161b-ba41-4a5b-bc84-47375745eeca"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/913c95b0-25a3-431c-b216-6b80240cb66b/ef82a1de-29e4-4f9e-9cf2-fc9e9bc66c65",
+          "imageUriBasePath": "https://ms.immowelt.org/913c95b0-25a3-431c-b216-6b80240cb66b/ef82a1de-29e4-4f9e-9cf2-fc9e9bc66c65"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/922480a2-c2b1-4b64-8e5b-b9d939b818a0/7e82efe2-9f8d-4570-9ad1-86a6345e2e67",
+          "imageUriBasePath": "https://ms.immowelt.org/922480a2-c2b1-4b64-8e5b-b9d939b818a0/7e82efe2-9f8d-4570-9ad1-86a6345e2e67"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/7b5a2481-e89e-4a9e-837c-4ca5ac141b2f/d7a6fb50-ecc5-4f67-aeb0-7529da6ea900",
+          "imageUriBasePath": "https://ms.immowelt.org/7b5a2481-e89e-4a9e-837c-4ca5ac141b2f/d7a6fb50-ecc5-4f67-aeb0-7529da6ea900"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/981137e9-502e-4775-8e5f-38917ede1d18/a12b9079-a6aa-4195-8847-10f08d0b8ad5",
+          "imageUriBasePath": "https://ms.immowelt.org/981137e9-502e-4775-8e5f-38917ede1d18/a12b9079-a6aa-4195-8847-10f08d0b8ad5"
+        }
+      ],
+      "broker": {
+        "guid": 3001397,
+        "sellerType": "PARTNER",
+        "companyName": "ZIEGERT GmbH",
+        "partnerAward": "PLATIN",
+        "immoweltExclusive": false,
+        "logoUri": "//filestore.immowelt.de/logo/100_7897eb9454b84cffb9c5ad65383b2adb.jpg",
+        "logoUriHttps": "https://filestore.immowelt.de/logo/100_7897eb9454b84cffb9c5ad65383b2adb.jpg"
+      },
+      "onlineId": "k22g632",
+      "projectData": {
+        "constructionStartDate": null,
+        "constructionEndDate": null,
+        "movingDate": "Q2/2025",
+        "logoUri": "https://ms.immowelt.org/6f078ef3-31bf-42c3-82cf-bba86e33d9cf/654118e2-ea27-41c6-bf92-4fd5eb43e664",
+        "numberOfUnits": 68
+      },
+      "relatedItems": [
+        {
+          "itemType": "ESTATE",
+          "onlineId": "28quh5t",
+          "gok": "fb303971-edd8-450a-afa0-37aae1e3d6a0",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 2.0,
+          "roomsMax": 2.0,
+          "primaryPrice": {
+            "amountMin": 216000.0,
+            "amountMax": 216000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 28.55,
+            "sizeMax": 28.55,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "FULLY_RESTRUCTURED",
+            "NEW_BUILDING_PROJECT",
+            "PASSENGER_LIFT",
+            "BALCONY"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "289uh5t",
+          "gok": "ce68a94b-0349-42a0-9a04-2500534c2141",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 2.0,
+          "roomsMax": 2.0,
+          "primaryPrice": {
+            "amountMin": 279000.0,
+            "amountMax": 279000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 37.08,
+            "sizeMax": 37.08,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "FULLY_RESTRUCTURED",
+            "NEW_BUILDING_PROJECT",
+            "PASSENGER_LIFT",
+            "BALCONY"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "28fwh5t",
+          "gok": "c45a3c61-896d-4f0d-97a3-2d6ee66ced62",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 2.0,
+          "roomsMax": 2.0,
+          "primaryPrice": {
+            "amountMin": 280000.0,
+            "amountMax": 280000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 37.11,
+            "sizeMax": 37.11,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "FULLY_RESTRUCTURED",
+            "NEW_BUILDING_PROJECT",
+            "PASSENGER_LIFT",
+            "BALCONY"
+          ]
+        }
+      ],
+      "estateGroups": [
+        "RESIDENTIAL"
+      ]
+    },
+    {
+      "id": "project_4527",
+      "itemType": "PROJECT",
+      "projectId": "4527",
+      "locationIds": [
+        525380,
+        529870,
+        528418,
+        499993,
+        26058108,
+        150696,
+        113886,
+        121726
+      ],
+      "place": {
+        "city": "Berlin"
+      },
+      "estateTypes": [
+        "APARTMENT"
+      ],
+      "distributionType": "SALE",
+      "title": "Wohnduett mit grünem Innenhof und Tiefgarage",
+      "prices": [
+        {
+          "amountMin": 466000.0,
+          "amountMax": 918000.0,
+          "type": "PURCHASE_PRICE",
+          "currency": "EUR",
+          "attributes": []
+        }
+      ],
+      "areas": [
+        {
+          "sizeMin": 72.0,
+          "sizeMax": 136.0,
+          "type": "LIVING_AREA"
+        }
+      ],
+      "primaryArea": {
+        "sizeMin": 72.0,
+        "sizeMax": 136.0,
+        "type": "LIVING_AREA"
+      },
+      "primaryPrice": {
+        "amountMin": 466000.0,
+        "amountMax": 918000.0,
+        "type": "PURCHASE_PRICE",
+        "currency": "EUR",
+        "attributes": []
+      },
+      "roomsMin": 3.0,
+      "roomsMax": 5.0,
+      "timestamp": "2022-11-19T10:17:27.871Z",
+      "isNew": false,
+      "features": [
+        "NEW_BUILDING",
+        "NEW_BUILDING_PROJECT"
+      ],
+      "pictures": [
+        {
+          "imageUri": "https://ms.immowelt.org/7f71ca0c-994b-4949-a209-3e24868961ec/6d6d8cc1-be72-4314-abd2-1b2aeea39976",
+          "imageUriBasePath": "https://ms.immowelt.org/7f71ca0c-994b-4949-a209-3e24868961ec/6d6d8cc1-be72-4314-abd2-1b2aeea39976"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/d1d6f679-331f-4815-9969-7f92d0962da0/1e1d40df-b886-4e29-952f-db12aa34e06c",
+          "imageUriBasePath": "https://ms.immowelt.org/d1d6f679-331f-4815-9969-7f92d0962da0/1e1d40df-b886-4e29-952f-db12aa34e06c"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/39e9c162-73e5-476d-8268-dbb6f196b5f0/421f3353-abc5-4c78-a112-99d861c6f3b9",
+          "imageUriBasePath": "https://ms.immowelt.org/39e9c162-73e5-476d-8268-dbb6f196b5f0/421f3353-abc5-4c78-a112-99d861c6f3b9"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/f1e59bc2-df80-4236-a27f-ce1ec260539f/9c91e6cf-0d3d-48a4-bfb6-15e0001217e7",
+          "imageUriBasePath": "https://ms.immowelt.org/f1e59bc2-df80-4236-a27f-ce1ec260539f/9c91e6cf-0d3d-48a4-bfb6-15e0001217e7"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/c2bdb9de-a8f3-45c5-9d57-0c8b34881055/e2c51309-460c-4d27-a52c-05d55aa0f849",
+          "imageUriBasePath": "https://ms.immowelt.org/c2bdb9de-a8f3-45c5-9d57-0c8b34881055/e2c51309-460c-4d27-a52c-05d55aa0f849"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/3d9bf740-1980-4179-b355-6d967318977c/d15c7cc0-ed89-4a95-9974-d6c8da79f6ab",
+          "imageUriBasePath": "https://ms.immowelt.org/3d9bf740-1980-4179-b355-6d967318977c/d15c7cc0-ed89-4a95-9974-d6c8da79f6ab"
+        }
+      ],
+      "broker": {
+        "guid": 6350266,
+        "sellerType": "PARTNER",
+        "companyName": "Wohnquadrat Berlin GmbH",
+        "partnerAward": null,
+        "immoweltExclusive": false,
+        "logoUri": "//filestore.immowelt.de/logo/100_3b791504d60e4d1880459c9657146105.jpg",
+        "logoUriHttps": "https://filestore.immowelt.de/logo/100_3b791504d60e4d1880459c9657146105.jpg"
+      },
+      "onlineId": "k2gf632",
+      "projectData": {
+        "constructionStartDate": "Frühjahr 2023",
+        "constructionEndDate": null,
+        "movingDate": "Ende 2025",
+        "logoUri": "https://ms.immowelt.org/75f2f572-a603-4677-99fc-1775d9dff3d5/70573b39-fdac-4e06-9e21-1c2a34a2bbb8",
+        "numberOfUnits": 16
+      },
+      "relatedItems": [
+        {
+          "itemType": "ESTATE",
+          "onlineId": "27fzp5x",
+          "gok": "4f66962f-f777-4522-9613-bd37f1e671b6",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 3.0,
+          "roomsMax": 3.0,
+          "primaryPrice": {
+            "amountMin": 466000.0,
+            "amountMax": 466000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 72.69,
+            "sizeMax": 72.69,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "CELLAR_SHARE",
+            "NEW_BUILDING",
+            "BATH_WITH_TUB",
+            "NEW_BUILDING_STANDARD",
+            "UNDERGROUND_PARKING",
+            "NEW_BUILDING_PROJECT",
+            "BARRIER_FREE",
+            "PASSENGER_LIFT",
+            "FREE_OF_COMMISSION",
+            "BALCONY"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "27fup5x",
+          "gok": "25180df6-890e-43b5-a208-414503195e3f",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 3.0,
+          "roomsMax": 3.0,
+          "primaryPrice": {
+            "amountMin": 474000.0,
+            "amountMax": 474000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 74.06,
+            "sizeMax": 74.06,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "CELLAR_SHARE",
+            "NEW_BUILDING",
+            "BATH_WITH_TUB",
+            "NEW_BUILDING_STANDARD",
+            "UNDERGROUND_PARKING",
+            "NEW_BUILDING_PROJECT",
+            "PASSENGER_LIFT",
+            "FREE_OF_COMMISSION",
+            "BALCONY"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "27mvp5x",
+          "gok": "2b6592d6-a554-4fb2-bfe0-790c561eb53b",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 3.0,
+          "roomsMax": 3.0,
+          "primaryPrice": {
+            "amountMin": 479500.0,
+            "amountMax": 479500.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 74.26,
+            "sizeMax": 74.26,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "CELLAR_SHARE",
+            "NEW_BUILDING",
+            "BATH_WITH_TUB",
+            "NEW_BUILDING_STANDARD",
+            "UNDERGROUND_PARKING",
+            "NEW_BUILDING_PROJECT",
+            "PASSENGER_LIFT",
+            "FREE_OF_COMMISSION",
+            "BALCONY"
+          ]
+        }
+      ],
+      "estateGroups": [
+        "RESIDENTIAL"
+      ]
+    },
+    {
+      "id": "project_4426",
+      "itemType": "PROJECT",
+      "projectId": "4426",
+      "locationIds": [
+        528319,
+        529870,
+        528418,
+        500038,
+        26058104,
+        150696,
+        113886,
+        121726
+      ],
+      "place": {
+        "city": "Berlin"
+      },
+      "estateTypes": [
+        "APARTMENT"
+      ],
+      "distributionType": "SALE",
+      "title": "Quartier Charlotte Weißensee",
+      "prices": [
+        {
+          "amountMin": 1500000.0,
+          "amountMax": 1500000.0,
+          "type": "PURCHASE_PRICE",
+          "currency": "EUR",
+          "attributes": []
+        }
+      ],
+      "areas": [
+        {
+          "sizeMin": 172.91,
+          "sizeMax": 172.91,
+          "type": "LIVING_AREA"
+        }
+      ],
+      "primaryArea": {
+        "sizeMin": 172.91,
+        "sizeMax": 172.91,
+        "type": "LIVING_AREA"
+      },
+      "primaryPrice": {
+        "amountMin": 1500000.0,
+        "amountMax": 1500000.0,
+        "type": "PURCHASE_PRICE",
+        "currency": "EUR",
+        "attributes": []
+      },
+      "roomsMin": 6.0,
+      "roomsMax": 6.0,
+      "timestamp": "2022-11-04T14:03:21.610Z",
+      "isNew": false,
+      "features": [
+        "NEW_BUILDING",
+        "NEW_BUILDING_PROJECT"
+      ],
+      "pictures": [
+        {
+          "imageUri": "https://ms.immowelt.org/3518b894-ee3b-4f59-ae28-55bdb9aa17af/813c376b-2392-456b-ad4e-fc5bb657f9db",
+          "imageUriBasePath": "https://ms.immowelt.org/3518b894-ee3b-4f59-ae28-55bdb9aa17af/813c376b-2392-456b-ad4e-fc5bb657f9db"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/d92c6df0-3208-44a9-949b-a4c38289ba3e/c4ef7be9-d62b-4dfb-8d7a-179d3c25e990",
+          "imageUriBasePath": "https://ms.immowelt.org/d92c6df0-3208-44a9-949b-a4c38289ba3e/c4ef7be9-d62b-4dfb-8d7a-179d3c25e990"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/2d835f5e-4520-46f7-a050-eacea61e2157/780f23c5-ca3a-491e-9738-5622fbdd63cc",
+          "imageUriBasePath": "https://ms.immowelt.org/2d835f5e-4520-46f7-a050-eacea61e2157/780f23c5-ca3a-491e-9738-5622fbdd63cc"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/709ebafe-c3ae-4906-be5e-f4388c754e0e/ad8808e3-0f50-4909-8983-f1cdfb6bd3df",
+          "imageUriBasePath": "https://ms.immowelt.org/709ebafe-c3ae-4906-be5e-f4388c754e0e/ad8808e3-0f50-4909-8983-f1cdfb6bd3df"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/496c93b9-b8ce-4bae-b5bd-602d021fc0e1/9db85dfd-5b2b-4e4e-ba7c-207c03ba2626",
+          "imageUriBasePath": "https://ms.immowelt.org/496c93b9-b8ce-4bae-b5bd-602d021fc0e1/9db85dfd-5b2b-4e4e-ba7c-207c03ba2626"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/8534ecba-b089-4656-8700-a4ed4f508889/36df986a-e475-4210-be7c-d80c4239dee5",
+          "imageUriBasePath": "https://ms.immowelt.org/8534ecba-b089-4656-8700-a4ed4f508889/36df986a-e475-4210-be7c-d80c4239dee5"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/1bcd5c5e-5c80-4a62-bfcf-f07957a5d005/320a2b95-e08a-440d-bbdb-fdfd18c8b9d8",
+          "imageUriBasePath": "https://ms.immowelt.org/1bcd5c5e-5c80-4a62-bfcf-f07957a5d005/320a2b95-e08a-440d-bbdb-fdfd18c8b9d8"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/cacce70d-29ef-4da0-8138-5d99f5dec38d/05833469-3b92-470d-a4ea-2956a5bfad2c",
+          "imageUriBasePath": "https://ms.immowelt.org/cacce70d-29ef-4da0-8138-5d99f5dec38d/05833469-3b92-470d-a4ea-2956a5bfad2c"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/f1e8cbe9-6707-4011-a420-e251fc57f93a/e9960fb9-c8f8-4242-bdb3-52a464c7961a",
+          "imageUriBasePath": "https://ms.immowelt.org/f1e8cbe9-6707-4011-a420-e251fc57f93a/e9960fb9-c8f8-4242-bdb3-52a464c7961a"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/4a386e63-56f5-46af-9cdf-30c3aece0be1/61883735-d348-48ef-9b72-686f13e43fbd",
+          "imageUriBasePath": "https://ms.immowelt.org/4a386e63-56f5-46af-9cdf-30c3aece0be1/61883735-d348-48ef-9b72-686f13e43fbd"
+        }
+      ],
+      "broker": {
+        "guid": 50758,
+        "sellerType": "PARTNER",
+        "companyName": "PRIMUS Immobilien AG",
+        "partnerAward": "PREMIUM",
+        "immoweltExclusive": false,
+        "logoUri": "//filestore.immowelt.de/logo/100_060f76f7003a45bfbe0d5f2500ec3702.jpg",
+        "logoUriHttps": "https://filestore.immowelt.de/logo/100_060f76f7003a45bfbe0d5f2500ec3702.jpg"
+      },
+      "onlineId": "k2bc632",
+      "projectData": {
+        "constructionStartDate": null,
+        "constructionEndDate": "2021",
+        "movingDate": null,
+        "logoUri": "https://ms.immowelt.org/cfaae08f-d909-4db5-809f-814623fb1510/a8e82008-5df4-4ba0-9a71-98c98405c60b",
+        "numberOfUnits": 45
+      },
+      "relatedItems": [
+        {
+          "itemType": "ESTATE",
+          "onlineId": "299h652",
+          "gok": "2d85dff6-b83e-4fbc-a62a-a456a35afd78",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 6.0,
+          "roomsMax": 6.0,
+          "primaryPrice": {
+            "amountMin": 1500000.0,
+            "amountMax": 1500000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 172.91,
+            "sizeMax": 172.91,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "NEW_BUILDING",
+            "BATH_WITH_TUB",
+            "NEW_BUILDING_PROJECT",
+            "PASSENGER_LIFT",
+            "BALCONY",
+            "TERRACE"
+          ]
+        }
+      ],
+      "estateGroups": [
+        "RESIDENTIAL"
+      ]
+    },
+    {
+      "id": "project_4382",
+      "itemType": "PROJECT",
+      "projectId": "4382",
+      "locationIds": [
+        525536,
+        529870,
+        528418,
+        500006,
+        26058104,
+        150696,
+        113886,
+        121726
+      ],
+      "place": {
+        "city": "Berlin"
+      },
+      "estateTypes": [
+        "APARTMENT"
+      ],
+      "distributionType": "SALE",
+      "title": "Schön, schöner, Schönhausen",
+      "prices": [
+        {
+          "amountMin": 439000.0,
+          "amountMax": 978000.0,
+          "type": "PURCHASE_PRICE",
+          "currency": "EUR",
+          "attributes": []
+        }
+      ],
+      "areas": [
+        {
+          "sizeMin": 69.54,
+          "sizeMax": 139.74,
+          "type": "LIVING_AREA"
+        }
+      ],
+      "primaryArea": {
+        "sizeMin": 69.54,
+        "sizeMax": 139.74,
+        "type": "LIVING_AREA"
+      },
+      "primaryPrice": {
+        "amountMin": 439000.0,
+        "amountMax": 978000.0,
+        "type": "PURCHASE_PRICE",
+        "currency": "EUR",
+        "attributes": []
+      },
+      "roomsMin": 2.0,
+      "roomsMax": 4.0,
+      "timestamp": "2022-10-27T13:30:47.058Z",
+      "isNew": false,
+      "features": [
+        "NEW_BUILDING",
+        "NEW_BUILDING_PROJECT"
+      ],
+      "pictures": [
+        {
+          "imageUri": "https://ms.immowelt.org/38ed73ab-5a3b-4bda-8b16-da05c10a1d36/3c64294f-faaa-4bac-a528-c0277a46dad0",
+          "imageUriBasePath": "https://ms.immowelt.org/38ed73ab-5a3b-4bda-8b16-da05c10a1d36/3c64294f-faaa-4bac-a528-c0277a46dad0"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/fb0bdb2d-d602-464d-b786-538b50a1aa84/8546d8ad-42ab-4583-b923-ef5d4edd43af",
+          "imageUriBasePath": "https://ms.immowelt.org/fb0bdb2d-d602-464d-b786-538b50a1aa84/8546d8ad-42ab-4583-b923-ef5d4edd43af"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/4d5983cf-fa3e-4131-9fb1-36e3cfa20867/d6c1556c-8553-4e98-8a02-99f5638346f3",
+          "imageUriBasePath": "https://ms.immowelt.org/4d5983cf-fa3e-4131-9fb1-36e3cfa20867/d6c1556c-8553-4e98-8a02-99f5638346f3"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/939a064f-2129-43aa-8d6f-4b1971af7cd5/e37a3963-c277-43ee-8579-e0f03f462b9b",
+          "imageUriBasePath": "https://ms.immowelt.org/939a064f-2129-43aa-8d6f-4b1971af7cd5/e37a3963-c277-43ee-8579-e0f03f462b9b"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/427b8e86-2e0a-4f1c-9c9f-41d2d1e1e51b/4be92fb6-ab40-4985-a36d-4fad46660f23",
+          "imageUriBasePath": "https://ms.immowelt.org/427b8e86-2e0a-4f1c-9c9f-41d2d1e1e51b/4be92fb6-ab40-4985-a36d-4fad46660f23"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/a33b46d7-66a0-4edb-be70-3b317279a852/56409b37-b347-4321-b73b-2ff03c7ed11f",
+          "imageUriBasePath": "https://ms.immowelt.org/a33b46d7-66a0-4edb-be70-3b317279a852/56409b37-b347-4321-b73b-2ff03c7ed11f"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/fe01145c-8cd7-4b36-b683-54bb62bb9d83/6e194f75-5a4e-4cd9-9dfe-0467a7aac0ea",
+          "imageUriBasePath": "https://ms.immowelt.org/fe01145c-8cd7-4b36-b683-54bb62bb9d83/6e194f75-5a4e-4cd9-9dfe-0467a7aac0ea"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/28956178-1c9c-4bea-a589-25bc0a9abe53/51ae3378-bb10-47a0-90aa-518afc32b8d7",
+          "imageUriBasePath": "https://ms.immowelt.org/28956178-1c9c-4bea-a589-25bc0a9abe53/51ae3378-bb10-47a0-90aa-518afc32b8d7"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/e1eaa6f1-1a55-445f-88bb-4ebab4a8cf09/d0661cef-3272-4494-996c-c5bb61ceefff",
+          "imageUriBasePath": "https://ms.immowelt.org/e1eaa6f1-1a55-445f-88bb-4ebab4a8cf09/d0661cef-3272-4494-996c-c5bb61ceefff"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/5d0adfe6-c267-4478-be05-65c44e98af9a/8ec9c6a7-0072-41c5-8ffa-97d7fa282066",
+          "imageUriBasePath": "https://ms.immowelt.org/5d0adfe6-c267-4478-be05-65c44e98af9a/8ec9c6a7-0072-41c5-8ffa-97d7fa282066"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/976f6900-cb33-4458-9a22-90794953d2a3/a0eba9be-9b33-440e-8e0d-371fb7810a82",
+          "imageUriBasePath": "https://ms.immowelt.org/976f6900-cb33-4458-9a22-90794953d2a3/a0eba9be-9b33-440e-8e0d-371fb7810a82"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/4f15042f-127b-4a7a-b611-d20e91e151fa/d8277f2b-92b7-477e-913e-54a90f67bca9",
+          "imageUriBasePath": "https://ms.immowelt.org/4f15042f-127b-4a7a-b611-d20e91e151fa/d8277f2b-92b7-477e-913e-54a90f67bca9"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/905fc7d9-af72-4955-8025-e938f7667cc8/e3135a40-575d-45d0-8b64-41e0ea493fa1",
+          "imageUriBasePath": "https://ms.immowelt.org/905fc7d9-af72-4955-8025-e938f7667cc8/e3135a40-575d-45d0-8b64-41e0ea493fa1"
+        }
+      ],
+      "broker": {
+        "guid": 10617,
+        "sellerType": "PARTNER",
+        "companyName": "MPW Immobilien Michael Werner GmbH",
+        "partnerAward": "PLATIN",
+        "immoweltExclusive": false,
+        "logoUri": "//filestore.immowelt.de/logo/100_2e12ca492107448b88b1b315d54708b5.jpg",
+        "logoUriHttps": "https://filestore.immowelt.de/logo/100_2e12ca492107448b88b1b315d54708b5.jpg"
+      },
+      "onlineId": "k2xa632",
+      "projectData": {
+        "constructionStartDate": null,
+        "constructionEndDate": null,
+        "movingDate": "01.06.2023",
+        "logoUri": "https://ms.immowelt.org/3c7a9bc5-32ad-4405-a837-7944df275dba/413043ba-7196-4c5a-af06-38df5c598526",
+        "numberOfUnits": 10
+      },
+      "relatedItems": [],
+      "estateGroups": [
+        "RESIDENTIAL"
+      ]
+    },
+    {
+      "id": "project_4249",
+      "itemType": "PROJECT",
+      "projectId": "4249",
+      "locationIds": [
+        528710,
+        529870,
+        528418,
+        499917,
+        26058110,
+        150696,
+        113886,
+        121726
+      ],
+      "place": {
+        "city": "Berlin"
+      },
+      "estateTypes": [
+        "APARTMENT"
+      ],
+      "distributionType": "SALE",
+      "title": "RUDERCLUB NO. 06",
+      "prices": [
+        {
+          "amountMin": 375000.0,
+          "amountMax": 1099000.0,
+          "type": "PURCHASE_PRICE",
+          "currency": "EUR",
+          "attributes": []
+        }
+      ],
+      "areas": [
+        {
+          "sizeMin": 61.51,
+          "sizeMax": 140.08,
+          "type": "LIVING_AREA"
+        }
+      ],
+      "primaryArea": {
+        "sizeMin": 61.51,
+        "sizeMax": 140.08,
+        "type": "LIVING_AREA"
+      },
+      "primaryPrice": {
+        "amountMin": 375000.0,
+        "amountMax": 1099000.0,
+        "type": "PURCHASE_PRICE",
+        "currency": "EUR",
+        "attributes": []
+      },
+      "roomsMin": 2.0,
+      "roomsMax": 5.0,
+      "timestamp": "2022-10-04T14:12:17.946Z",
+      "isNew": false,
+      "features": [
+        "NEW_BUILDING",
+        "NEW_BUILDING_PROJECT"
+      ],
+      "pictures": [
+        {
+          "imageUri": "https://ms.immowelt.org/5369541f-ebd5-4ce5-9afc-7282a82ef957/2b6caea1-ec53-492e-8144-6f5692e5e7f4",
+          "imageUriBasePath": "https://ms.immowelt.org/5369541f-ebd5-4ce5-9afc-7282a82ef957/2b6caea1-ec53-492e-8144-6f5692e5e7f4"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/133a049c-5987-4da5-9b44-24ac1ee281fd/635df003-a3e4-4dc7-9829-2c40439f4948",
+          "imageUriBasePath": "https://ms.immowelt.org/133a049c-5987-4da5-9b44-24ac1ee281fd/635df003-a3e4-4dc7-9829-2c40439f4948"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/e1ea3263-72e1-473e-8d24-4318598803a2/b81c2174-9c11-4a56-aa41-7d161ac264db",
+          "imageUriBasePath": "https://ms.immowelt.org/e1ea3263-72e1-473e-8d24-4318598803a2/b81c2174-9c11-4a56-aa41-7d161ac264db"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/e5d0e91b-253f-4e58-b249-fc6dcb6fd5b3/e6f57778-e1cd-401b-8b73-805a18b51aa6",
+          "imageUriBasePath": "https://ms.immowelt.org/e5d0e91b-253f-4e58-b249-fc6dcb6fd5b3/e6f57778-e1cd-401b-8b73-805a18b51aa6"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/58aa1d89-3e05-4e5e-8229-adfc64858dc6/0ee15dec-c612-41e6-bc28-6d83c4e47a0f",
+          "imageUriBasePath": "https://ms.immowelt.org/58aa1d89-3e05-4e5e-8229-adfc64858dc6/0ee15dec-c612-41e6-bc28-6d83c4e47a0f"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/96e93955-5ce9-42f7-94ca-fffbd8ca8d6a/d75d5874-3ee0-4c92-93d2-d9585a0c4621",
+          "imageUriBasePath": "https://ms.immowelt.org/96e93955-5ce9-42f7-94ca-fffbd8ca8d6a/d75d5874-3ee0-4c92-93d2-d9585a0c4621"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/2846e2e6-b16d-49dc-880f-0bfc8738796b/f47f4ba1-66b3-4b44-8cde-bda175e1af35",
+          "imageUriBasePath": "https://ms.immowelt.org/2846e2e6-b16d-49dc-880f-0bfc8738796b/f47f4ba1-66b3-4b44-8cde-bda175e1af35"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/4fd70d89-20ee-4a5c-a709-ddb18e2f2292/9227bcca-31d6-450b-af9e-115242db5cfe",
+          "imageUriBasePath": "https://ms.immowelt.org/4fd70d89-20ee-4a5c-a709-ddb18e2f2292/9227bcca-31d6-450b-af9e-115242db5cfe"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/df205b9a-e3ff-48d5-8892-c1e2c499092b/111ed082-56b0-49be-8b50-c742c067aab0",
+          "imageUriBasePath": "https://ms.immowelt.org/df205b9a-e3ff-48d5-8892-c1e2c499092b/111ed082-56b0-49be-8b50-c742c067aab0"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/9f3cb963-e42c-4fd0-8c43-f6e431f36390/35a04252-8c8f-4d04-be49-9549258b683e",
+          "imageUriBasePath": "https://ms.immowelt.org/9f3cb963-e42c-4fd0-8c43-f6e431f36390/35a04252-8c8f-4d04-be49-9549258b683e"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/9858ac3e-598b-4b65-bf92-91aca1f7f56d/6eff65e9-01b2-485b-ab2d-bb36e6c36d7a",
+          "imageUriBasePath": "https://ms.immowelt.org/9858ac3e-598b-4b65-bf92-91aca1f7f56d/6eff65e9-01b2-485b-ab2d-bb36e6c36d7a"
+        }
+      ],
+      "broker": {
+        "guid": 765296,
+        "sellerType": "PARTNER",
+        "companyName": "Berliner Jungens Development GmbH",
+        "partnerAward": null,
+        "immoweltExclusive": false,
+        "logoUri": "//filestore.immowelt.de/logo/100_e989a9aa82d244acb2b0aa5e08f59080.jpg",
+        "logoUriHttps": "https://filestore.immowelt.de/logo/100_e989a9aa82d244acb2b0aa5e08f59080.jpg"
+      },
+      "onlineId": "k2s6632",
+      "projectData": {
+        "constructionStartDate": "2023",
+        "constructionEndDate": null,
+        "movingDate": "Anfang 2025",
+        "logoUri": "https://ms.immowelt.org/d5789a5e-8c68-41de-8610-a85cc16893b3/f1400c00-2976-44fb-ab25-46ff8f453ce1",
+        "numberOfUnits": 25
+      },
+      "relatedItems": [
+        {
+          "itemType": "ESTATE",
+          "onlineId": "27glx5h",
+          "gok": "3117a2ba-eb28-4459-8785-c1d83c7e0a00",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 2.0,
+          "roomsMax": 2.0,
+          "primaryPrice": {
+            "amountMin": 375000.0,
+            "amountMax": 375000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 62.07,
+            "sizeMax": 62.07,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "UNDERGROUND_PARKING",
+            "NEW_BUILDING",
+            "PASSENGER_LIFT",
+            "NEW_BUILDING_PROJECT",
+            "AVAILABLE_FOR_RENT",
+            "CELLAR_SHARE",
+            null,
+            "PROJECTED",
+            "FREE_OF_COMMISSION",
+            "BATH_WITH_TUB",
+            null,
+            "BALCONY"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "27p6w5h",
+          "gok": "e8c2e363-6b8c-43b8-975a-f0d7b368d5c9",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 4.0,
+          "roomsMax": 4.0,
+          "primaryPrice": {
+            "amountMin": 691000.0,
+            "amountMax": 691000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 110.85,
+            "sizeMax": 110.85,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "UNDERGROUND_PARKING",
+            "NEW_BUILDING",
+            "PASSENGER_LIFT",
+            "NEW_BUILDING_PROJECT",
+            "AVAILABLE_FOR_RENT",
+            "CELLAR_SHARE",
+            null,
+            "PROJECTED",
+            "FREE_OF_COMMISSION",
+            "BATH_WITH_TUB",
+            null,
+            "BALCONY"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "27yfx5h",
+          "gok": "af227ca7-01f2-433c-888e-e853e1f1cddb",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 4.0,
+          "roomsMax": 4.0,
+          "primaryPrice": {
+            "amountMin": 704000.0,
+            "amountMax": 704000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 110.85,
+            "sizeMax": 110.85,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "UNDERGROUND_PARKING",
+            "NEW_BUILDING",
+            "PASSENGER_LIFT",
+            "NEW_BUILDING_PROJECT",
+            "AVAILABLE_FOR_RENT",
+            "CELLAR_SHARE",
+            null,
+            "FREE_OF_COMMISSION",
+            "BATH_WITH_TUB",
+            null,
+            "BALCONY"
+          ]
+        }
+      ],
+      "estateGroups": [
+        "RESIDENTIAL"
+      ]
+    },
+    {
+      "id": "project_4213",
+      "itemType": "PROJECT",
+      "projectId": "4213",
+      "locationIds": [
+        531631,
+        529870,
+        528418,
+        499908,
+        26058103,
+        150696,
+        113886,
+        121726
+      ],
+      "place": {
+        "city": "Berlin"
+      },
+      "estateTypes": [
+        "APARTMENT"
+      ],
+      "distributionType": "SALE",
+      "title": "Neubauprojekt Fischzug",
+      "prices": [
+        {
+          "amountMin": 490000.0,
+          "amountMax": 2650000.0,
+          "type": "PURCHASE_PRICE",
+          "currency": "EUR",
+          "attributes": []
+        }
+      ],
+      "areas": [
+        {
+          "sizeMin": 46.3,
+          "sizeMax": 206.0,
+          "type": "LIVING_AREA"
+        }
+      ],
+      "primaryArea": {
+        "sizeMin": 46.3,
+        "sizeMax": 206.0,
+        "type": "LIVING_AREA"
+      },
+      "primaryPrice": {
+        "amountMin": 490000.0,
+        "amountMax": 2650000.0,
+        "type": "PURCHASE_PRICE",
+        "currency": "EUR",
+        "attributes": []
+      },
+      "roomsMin": 2.0,
+      "roomsMax": 6.0,
+      "timestamp": "2022-09-26T10:19:55.874Z",
+      "isNew": false,
+      "features": [
+        "NEW_BUILDING",
+        "NEW_BUILDING_PROJECT"
+      ],
+      "pictures": [
+        {
+          "imageUri": "https://ms.immowelt.org/ec5624ab-b67c-4322-900f-2a7d2abebbb1/ef35140f-d327-422d-8f9a-fc2461d2a05e",
+          "imageUriBasePath": "https://ms.immowelt.org/ec5624ab-b67c-4322-900f-2a7d2abebbb1/ef35140f-d327-422d-8f9a-fc2461d2a05e"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/d8f8b0f2-0db4-44b4-9937-24f47a6b108e/ad68b1cf-2d37-43ef-a52d-9c5cd60595e7",
+          "imageUriBasePath": "https://ms.immowelt.org/d8f8b0f2-0db4-44b4-9937-24f47a6b108e/ad68b1cf-2d37-43ef-a52d-9c5cd60595e7"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/bce76b9d-cace-468e-b21e-ef86eddc0bb6/35bcf530-c457-4b4b-87bd-2bf5e16ed52b",
+          "imageUriBasePath": "https://ms.immowelt.org/bce76b9d-cace-468e-b21e-ef86eddc0bb6/35bcf530-c457-4b4b-87bd-2bf5e16ed52b"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/6739b611-b6d7-43df-b798-4405876cd9ed/5b7253ac-465c-47fc-8bd4-0ab62f84e9c3",
+          "imageUriBasePath": "https://ms.immowelt.org/6739b611-b6d7-43df-b798-4405876cd9ed/5b7253ac-465c-47fc-8bd4-0ab62f84e9c3"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/08334f9a-340e-4aa8-95c6-c83c5b417157/e93236be-aac0-4b7d-8bd9-e3989133d3fd",
+          "imageUriBasePath": "https://ms.immowelt.org/08334f9a-340e-4aa8-95c6-c83c5b417157/e93236be-aac0-4b7d-8bd9-e3989133d3fd"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/5480f739-1570-418d-9151-c4a3ecedd2ea/91e206db-933f-47e0-b11f-ab20f6051bc1",
+          "imageUriBasePath": "https://ms.immowelt.org/5480f739-1570-418d-9151-c4a3ecedd2ea/91e206db-933f-47e0-b11f-ab20f6051bc1"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/18a66ea4-2698-4600-9220-538d0140f379/95ff790f-2db9-4e10-a185-0dfa2c986620",
+          "imageUriBasePath": "https://ms.immowelt.org/18a66ea4-2698-4600-9220-538d0140f379/95ff790f-2db9-4e10-a185-0dfa2c986620"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/dfa1b5d0-ec1b-4e9e-93c8-12b8b0aaf156/53c5b2c3-0179-45a9-bb3c-7538f26d7c06",
+          "imageUriBasePath": "https://ms.immowelt.org/dfa1b5d0-ec1b-4e9e-93c8-12b8b0aaf156/53c5b2c3-0179-45a9-bb3c-7538f26d7c06"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/8009bc96-66dc-4b1c-811c-df348d9d19b3/9a058adb-4359-4bcc-9cef-1c19497d7e61",
+          "imageUriBasePath": "https://ms.immowelt.org/8009bc96-66dc-4b1c-811c-df348d9d19b3/9a058adb-4359-4bcc-9cef-1c19497d7e61"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/76e90014-ffb7-4f44-84d6-534cbe4dc0b5/f3d77375-0e9e-4ce5-86f1-6af42acfece6",
+          "imageUriBasePath": "https://ms.immowelt.org/76e90014-ffb7-4f44-84d6-534cbe4dc0b5/f3d77375-0e9e-4ce5-86f1-6af42acfece6"
+        },
+        {
+          "imageUri": "https://ms.immowelt.org/faf7ed41-e0db-4181-bc4f-ca68cd69574f/b12e357a-a58f-466d-9dd4-9cdb5333c092",
+          "imageUriBasePath": "https://ms.immowelt.org/faf7ed41-e0db-4181-bc4f-ca68cd69574f/b12e357a-a58f-466d-9dd4-9cdb5333c092"
+        }
+      ],
+      "broker": {
+        "guid": 1689244,
+        "sellerType": "PARTNER",
+        "companyName": "cds Wohnbau Berlin GmbH",
+        "partnerAward": null,
+        "immoweltExclusive": false,
+        "logoUri": "//filestore.immowelt.de/logo/100_9a6265e3f2bd467eb081489c7b945d4c.jpg",
+        "logoUriHttps": "https://filestore.immowelt.de/logo/100_9a6265e3f2bd467eb081489c7b945d4c.jpg"
+      },
+      "onlineId": "k2n5632",
+      "projectData": {
+        "constructionStartDate": "Juli 2022",
+        "constructionEndDate": "30.09.2024",
+        "movingDate": "30.09.2024",
+        "logoUri": "https://ms.immowelt.org/e28581f8-0ec3-40e8-ae85-45329aa988f1/3d725327-3514-4789-b596-3b77b9936a38",
+        "numberOfUnits": 29
+      },
+      "relatedItems": [
+        {
+          "itemType": "ESTATE",
+          "onlineId": "27ln65d",
+          "gok": "509cf407-fea5-488d-ae22-a0164910bb38",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 2.0,
+          "roomsMax": 2.0,
+          "primaryPrice": {
+            "amountMin": 499000.0,
+            "amountMax": 499000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 49.51,
+            "sizeMax": 49.51,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "CELLAR_SHARE",
+            "NEW_BUILDING",
+            "GROUND_FLOOR",
+            "GARDEN",
+            "NEW_BUILDING_PROJECT",
+            "PASSENGER_LIFT",
+            "TERRACE"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "28zku5r",
+          "gok": "eadf61fc-22c0-4450-ab98-4eb624ebcc09",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 2.0,
+          "roomsMax": 2.0,
+          "primaryPrice": {
+            "amountMin": 530000.0,
+            "amountMax": 530000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 52.28,
+            "sizeMax": 52.28,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "CELLAR_SHARE",
+            "NEW_BUILDING",
+            "NEW_BUILDING_PROJECT",
+            "PASSENGER_LIFT"
+          ]
+        },
+        {
+          "itemType": "ESTATE",
+          "onlineId": "273pw5b",
+          "gok": "ccb4641c-61d9-48e3-a575-f04b1ac37ab0",
+          "projectId": null,
+          "title": null,
+          "roomsMin": 3.0,
+          "roomsMax": 3.0,
+          "primaryPrice": {
+            "amountMin": 890000.0,
+            "amountMax": 890000.0,
+            "type": "PURCHASE_PRICE",
+            "currency": "EUR",
+            "attributes": [
+              "FIXED_PRICE"
+            ]
+          },
+          "primaryArea": {
+            "sizeMin": 84.82,
+            "sizeMax": 84.82,
+            "type": "LIVING_AREA"
+          },
+          "features": [
+            "CELLAR_SHARE",
+            "NEW_BUILDING",
+            "BATH_WITH_TUB",
+            "NEW_BUILDING_PROJECT",
+            "BARRIER_FREE",
+            "PASSENGER_LIFT",
+            "BALCONY"
+          ]
+        }
+      ],
+      "estateGroups": [
+        "RESIDENTIAL"
+      ]
+    }
+  ],
+  "totalCount": 1196,
+  "pagesCount": 60,
+  "selectedPage": 1,
+  "pageElementCount": 20
+}
